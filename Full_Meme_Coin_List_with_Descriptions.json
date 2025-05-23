@@ -1,2252 +1,2117 @@
 [
- {
-   "FIELD1": 0,
-   "Coin Name": "$TRUMP",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 1,
-   "Coin Name": "$SNIFFGRANNY",
-   "Description": "Slow, steady, still beat you."
- },
- {
-   "FIELD1": 2,
-   "Coin Name": "$DUMBDREAM",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 3,
-   "Coin Name": "$SNIFFRICE",
-   "Description": "Weird coin. Don’t ask questions."
- },
- {
-   "FIELD1": 4,
-   "Coin Name": "$TINA",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 5,
-   "Coin Name": "$SCANGOOBER",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 6,
-   "Coin Name": "$GOOBER",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 7,
-   "Coin Name": "$JESUS",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 8,
-   "Coin Name": "$STUPIDWALLET",
-   "Description": "Where your dreams go to die."
- },
- {
-   "FIELD1": 9,
-   "Coin Name": "$NAKEDINCH",
-   "Description": "Average size. Above-average losses."
- },
- {
-   "FIELD1": 10,
-   "Coin Name": "$DUMPWALLET",
-   "Description": "Where your dreams go to die."
- },
- {
-   "FIELD1": 11,
-   "Coin Name": "$ZOOMPISS",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 12,
-   "Coin Name": "$ZOOMZOMBIE",
-   "Description": "It’s dead. But still trading."
- },
- {
-   "FIELD1": 13,
-   "Coin Name": "$SCANDOG",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 14,
-   "Coin Name": "$DEADGRANNY",
-   "Description": "Slow, steady, still beat you."
- },
- {
-   "FIELD1": 15,
-   "Coin Name": "$DRYCHART",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 16,
-   "Coin Name": "$SNIFFLIQUID",
-   "Description": "Weird coin. Don’t ask questions."
- },
- {
-   "FIELD1": 17,
-   "Coin Name": "$DRYSNACK",
-   "Description": "Hot coin. Holders even hotter."
- },
- {
-   "FIELD1": 18,
-   "Coin Name": "$BROKESNACK",
-   "Description": "Hot coin. Holders even hotter."
- },
- {
-   "FIELD1": 19,
-   "Coin Name": "$SUSSY",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 20,
-   "Coin Name": "$FREAKYNOPE",
-   "Description": "Just don’t."
- },
- {
-   "FIELD1": 21,
-   "Coin Name": "$SNIFFTOE",
-   "Description": "Weird coin. Don’t ask questions."
- },
- {
-   "FIELD1": 22,
-   "Coin Name": "$SCANINCH",
-   "Description": "Average size. Above-average losses."
- },
- {
-   "FIELD1": 23,
-   "Coin Name": "$LOSESNIFF",
-   "Description": "Weird coin. Don’t ask questions."
- },
- {
-   "FIELD1": 24,
-   "Coin Name": "$LOLNO",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 25,
-   "Coin Name": "$RIZZGOOBER",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 26,
-   "Coin Name": "$DUMPBOIL",
-   "Description": "It never pumped, but it dumped."
- },
- {
-   "FIELD1": 27,
-   "Coin Name": "$DRYDOG",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 28,
-   "Coin Name": "$SADTOE",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 29,
-   "Coin Name": "$COPEBAG",
-   "Description": "Post-trade depression included."
- },
- {
-   "FIELD1": 30,
-   "Coin Name": "$ZOOMBAG",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 31,
-   "Coin Name": "$HOTBAG",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 32,
-   "Coin Name": "$MINTNOPE",
-   "Description": "Just don’t."
- },
- {
-   "FIELD1": 33,
-   "Coin Name": "$DEADDREAM",
-   "Description": "Chart flatlined. Holder hopes haven’t."
- },
- {
-   "FIELD1": 34,
-   "Coin Name": "$BUYHOPE",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 35,
-   "Coin Name": "$STUPIDTOE",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 36,
-   "Coin Name": "$DOG",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 37,
-   "Coin Name": "$SCROLLTOE",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 38,
-   "Coin Name": "$MOANCOIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 39,
-   "Coin Name": "$SCROLLDOG",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 40,
-   "Coin Name": "$UGH",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 41,
-   "Coin Name": "$APEBAG",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 42,
-   "Coin Name": "$LAZYGOBLIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 43,
-   "Coin Name": "$DRYTAX",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 44,
-   "Coin Name": "$COPEGOOBER",
-   "Description": "Post-trade depression included."
- },
- {
-   "FIELD1": 45,
-   "Coin Name": "$UHHH",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 46,
-   "Coin Name": "$SENDFART",
-   "Description": "Silent but deadly tokenomics."
- },
- {
-   "FIELD1": 47,
-   "Coin Name": "$DUMBKEVIN",
-   "Description": "No context. Just Dumbkevin."
- },
- {
-   "FIELD1": 48,
-   "Coin Name": "$BOIL",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 49,
-   "Coin Name": "$DUMPSOCK",
-   "Description": "It never pumped, but it dumped."
- },
- {
-   "FIELD1": 50,
-   "Coin Name": "$TAX",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 51,
-   "Coin Name": "$DRAINGRANNY",
-   "Description": "Slow, steady, still beat you."
- },
- {
-   "FIELD1": 52,
-   "Coin Name": "$SADINCH",
-   "Description": "Average size. Above-average losses."
- },
- {
-   "FIELD1": 53,
-   "Coin Name": "$SOFTZOMBIE",
-   "Description": "It’s dead. But still trading."
- },
- {
-   "FIELD1": 54,
-   "Coin Name": "$CRYSNIFF",
-   "Description": "Weird coin. Don’t ask questions."
- },
- {
-   "FIELD1": 55,
-   "Coin Name": "$CLICKPISS",
-   "Description": "Only for the brave and the gross."
- },
- {
-   "FIELD1": 56,
-   "Coin Name": "$CRYCOIN",
-   "Description": "Post-trade depression included."
- },
- {
-   "FIELD1": 57,
-   "Coin Name": "$DRAINSNACK",
-   "Description": "Hot coin. Holders even hotter."
- },
- {
-   "FIELD1": 58,
-   "Coin Name": "$BOING",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 59,
-   "Coin Name": "$FATFART",
-   "Description": "Silent but deadly tokenomics."
- },
- {
-   "FIELD1": 60,
-   "Coin Name": "$BUYDOG",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 61,
-   "Coin Name": "$ZOOMBOIL",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 62,
-   "Coin Name": "$LICKSNACK",
-   "Description": "Only for the brave and the gross."
- },
- {
-   "FIELD1": 63,
-   "Coin Name": "$BLINDBRAIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 64,
-   "Coin Name": "$RIZZCAT",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 65,
-   "Coin Name": "$COPECAT",
-   "Description": "Post-trade depression included."
- },
- {
-   "FIELD1": 66,
-   "Coin Name": "$CRINGESOCK",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 67,
-   "Coin Name": "$BRUH",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 68,
-   "Coin Name": "$CRYBAG",
-   "Description": "Post-trade depression included."
- },
- {
-   "FIELD1": 69,
-   "Coin Name": "$HARDCOIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 70,
-   "Coin Name": "$ZOOMLIQUID",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 71,
-   "Coin Name": "$SCROLLDEGEN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 72,
-   "Coin Name": "$BUYBOY",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 73,
-   "Coin Name": "$RIZZLOSS",
-   "Description": "Chart flatlined. Holder hopes haven’t."
- },
- {
-   "FIELD1": 74,
-   "Coin Name": "$FREAKYCAT",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 75,
-   "Coin Name": "$PISS",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 76,
-   "Coin Name": "$SCANNOPE",
-   "Description": "Just don’t."
- },
- {
-   "FIELD1": 77,
-   "Coin Name": "$HARDBRAIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 78,
-   "Coin Name": "$SATAN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 79,
-   "Coin Name": "$MOANBOY",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 80,
-   "Coin Name": "$SNIFFCOIN",
-   "Description": "Weird coin. Don’t ask questions."
- },
- {
-   "FIELD1": 81,
-   "Coin Name": "$CLICKCOIN",
-   "Description": "Only for the brave and the gross."
- },
- {
-   "FIELD1": 82,
-   "Coin Name": "$LAZYCOIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 83,
-   "Coin Name": "$APEPISS",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 84,
-   "Coin Name": "$STUPIDLOSS",
-   "Description": "Chart flatlined. Holder hopes haven’t."
- },
- {
-   "FIELD1": 85,
-   "Coin Name": "$COPESNACK",
-   "Description": "Post-trade depression included."
- },
- {
-   "FIELD1": 86,
-   "Coin Name": "$FLIPDOG",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 87,
-   "Coin Name": "$SCROLLKEVIN",
-   "Description": "No context. Just Scrollkevin."
- },
- {
-   "FIELD1": 88,
-   "Coin Name": "$GABE",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 89,
-   "Coin Name": "$DOODOO",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 90,
-   "Coin Name": "$COPEDOG",
-   "Description": "Post-trade depression included."
- },
- {
-   "FIELD1": 91,
-   "Coin Name": "$MOANDEGEN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 92,
-   "Coin Name": "$SWIPELOSS",
-   "Description": "Chart flatlined. Holder hopes haven’t."
- },
- {
-   "FIELD1": 93,
-   "Coin Name": "$RIZZSNIFF",
-   "Description": "Weird coin. Don’t ask questions."
- },
- {
-   "FIELD1": 94,
-   "Coin Name": "$FATMEME",
-   "Description": "Meta af. Self-aware coin culture."
- },
- {
-   "FIELD1": 95,
-   "Coin Name": "$FREAKYDREAM",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 96,
-   "Coin Name": "$BLINDINCH",
-   "Description": "Average size. Above-average losses."
- },
- {
-   "FIELD1": 97,
-   "Coin Name": "$FLIPMEME",
-   "Description": "Meta af. Self-aware coin culture."
- },
- {
-   "FIELD1": 98,
-   "Coin Name": "$LOSTLOSS",
-   "Description": "Chart flatlined. Holder hopes haven’t."
- },
- {
-   "FIELD1": 99,
-   "Coin Name": "$SWIPEKEVIN",
-   "Description": "No context. Just Swipekevin."
- },
- {
-   "FIELD1": 100,
-   "Coin Name": "$WEIRDNOPE",
-   "Description": "Just don’t."
- },
- {
-   "FIELD1": 101,
-   "Coin Name": "$MOANGRANNY",
-   "Description": "Slow, steady, still beat you."
- },
- {
-   "FIELD1": 102,
-   "Coin Name": "$RICE",
-   "Description": "Post-trade diet begins now."
- },
- {
-   "FIELD1": 103,
-   "Coin Name": "$SNIFF",
-   "Description": "Weird coin. Don’t ask questions."
- },
- {
-   "FIELD1": 104,
-   "Coin Name": "$BROKECHART",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 105,
-   "Coin Name": "$SENDDREAM",
-   "Description": "No thought. Just send it."
- },
- {
-   "FIELD1": 106,
-   "Coin Name": "$SWIPETAX",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 107,
-   "Coin Name": "$LOSEBOY",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 108,
-   "Coin Name": "$SADFART",
-   "Description": "Silent but deadly tokenomics."
- },
- {
-   "FIELD1": 109,
-   "Coin Name": "$MADRICE",
-   "Description": "Post-trade diet begins now."
- },
- {
-   "FIELD1": 110,
-   "Coin Name": "$SICKHOPE",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 111,
-   "Coin Name": "$YEETWALLET",
-   "Description": "Sent with no target. Just vibes."
- },
- {
-   "FIELD1": 112,
-   "Coin Name": "$GOBLIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 113,
-   "Coin Name": "$BRAIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 114,
-   "Coin Name": "$LOSTZOMBIE",
-   "Description": "It’s dead. But still trading."
- },
- {
-   "FIELD1": 115,
-   "Coin Name": "$BIDEN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 116,
-   "Coin Name": "$BLORP",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 117,
-   "Coin Name": "$COIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 118,
-   "Coin Name": "$STUPIDMEME",
-   "Description": "Meta af. Self-aware coin culture."
- },
- {
-   "FIELD1": 119,
-   "Coin Name": "$DRAINRICE",
-   "Description": "Post-trade diet begins now."
- },
- {
-   "FIELD1": 120,
-   "Coin Name": "$YEETNOPE",
-   "Description": "Sent with no target. Just vibes."
- },
- {
-   "FIELD1": 121,
-   "Coin Name": "$LAZYPISS",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 122,
-   "Coin Name": "$SWIPECAT",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 123,
-   "Coin Name": "$BOB",
-   "Description": "No context. Just Bob."
- },
- {
-   "FIELD1": 124,
-   "Coin Name": "$MADHOPE",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 125,
-   "Coin Name": "$TINYPISS",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 126,
-   "Coin Name": "$FREAKYZOMBIE",
-   "Description": "It’s dead. But still trading."
- },
- {
-   "FIELD1": 127,
-   "Coin Name": "$LAZYDREAM",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 128,
-   "Coin Name": "$SICKBRAIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 129,
-   "Coin Name": "$MOANGOOBER",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 130,
-   "Coin Name": "$FATCOIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 131,
-   "Coin Name": "$MADCAT",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 132,
-   "Coin Name": "$SCROLLCAT",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 133,
-   "Coin Name": "$HARDLOSS",
-   "Description": "Chart flatlined. Holder hopes haven’t."
- },
- {
-   "FIELD1": 134,
-   "Coin Name": "$BUYLOSS",
-   "Description": "Chart flatlined. Holder hopes haven’t."
- },
- {
-   "FIELD1": 135,
-   "Coin Name": "$CRYBRAIN",
-   "Description": "Post-trade depression included."
- },
- {
-   "FIELD1": 136,
-   "Coin Name": "$STUPIDTAX",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 137,
-   "Coin Name": "$SADBAG",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 138,
-   "Coin Name": "$YEETSNACK",
-   "Description": "Sent with no target. Just vibes."
- },
- {
-   "FIELD1": 139,
-   "Coin Name": "$DRAINLIQUID",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 140,
-   "Coin Name": "$BUYRICE",
-   "Description": "Post-trade diet begins now."
- },
- {
-   "FIELD1": 141,
-   "Coin Name": "$DUMBINCH",
-   "Description": "Average size. Above-average losses."
- },
- {
-   "FIELD1": 142,
-   "Coin Name": "$FREAKYBOY",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 143,
-   "Coin Name": "$NOPE",
-   "Description": "Just don’t."
- },
- {
-   "FIELD1": 144,
-   "Coin Name": "$SICKGRANNY",
-   "Description": "Slow, steady, still beat you."
- },
- {
-   "FIELD1": 145,
-   "Coin Name": "$YEETDEGEN",
-   "Description": "Sent with no target. Just vibes."
- },
- {
-   "FIELD1": 146,
-   "Coin Name": "$SNIFFINCH",
-   "Description": "Weird coin. Don’t ask questions."
- },
- {
-   "FIELD1": 147,
-   "Coin Name": "$SNACK",
-   "Description": "Hot coin. Holders even hotter."
- },
- {
-   "FIELD1": 148,
-   "Coin Name": "$TINYDOG",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 149,
-   "Coin Name": "$SENDNOPE",
-   "Description": "Just don’t."
- },
- {
-   "FIELD1": 150,
-   "Coin Name": "$YEETCHART",
-   "Description": "Sent with no target. Just vibes."
- },
- {
-   "FIELD1": 151,
-   "Coin Name": "$FREAKYFART",
-   "Description": "Silent but deadly tokenomics."
- },
- {
-   "FIELD1": 152,
-   "Coin Name": "$FREAKYBRAIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 153,
-   "Coin Name": "$SENDINCH",
-   "Description": "Average size. Above-average losses."
- },
- {
-   "FIELD1": 154,
-   "Coin Name": "$LAZYGOOBER",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 155,
-   "Coin Name": "$DRAINPISS",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 156,
-   "Coin Name": "$DRAINDEGEN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 157,
-   "Coin Name": "$HOPE",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 158,
-   "Coin Name": "$MADDREAM",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 159,
-   "Coin Name": "$MINTRICE",
-   "Description": "Post-trade diet begins now."
- },
- {
-   "FIELD1": 160,
-   "Coin Name": "$APEBOY",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 161,
-   "Coin Name": "$HOTCHART",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 162,
-   "Coin Name": "$CRYTOE",
-   "Description": "Post-trade depression included."
- },
- {
-   "FIELD1": 163,
-   "Coin Name": "$CLICKCHART",
-   "Description": "Only for the brave and the gross."
- },
- {
-   "FIELD1": 164,
-   "Coin Name": "$ZOOMCHART",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 165,
-   "Coin Name": "$CLICKCAT",
-   "Description": "Only for the brave and the gross."
- },
- {
-   "FIELD1": 166,
-   "Coin Name": "$APEZOMBIE",
-   "Description": "It’s dead. But still trading."
- },
- {
-   "FIELD1": 167,
-   "Coin Name": "$MINTBOIL",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 168,
-   "Coin Name": "$SIMON",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 169,
-   "Coin Name": "$FATSNIFF",
-   "Description": "Weird coin. Don’t ask questions."
- },
- {
-   "FIELD1": 170,
-   "Coin Name": "$SCROLLRICE",
-   "Description": "Post-trade diet begins now."
- },
- {
-   "FIELD1": 171,
-   "Coin Name": "$SCANGRANNY",
-   "Description": "Slow, steady, still beat you."
- },
- {
-   "FIELD1": 172,
-   "Coin Name": "$SCANFART",
-   "Description": "Silent but deadly tokenomics."
- },
- {
-   "FIELD1": 173,
-   "Coin Name": "$LOSEMEME",
-   "Description": "Meta af. Self-aware coin culture."
- },
- {
-   "FIELD1": 174,
-   "Coin Name": "$MADLOSS",
-   "Description": "Chart flatlined. Holder hopes haven’t."
- },
- {
-   "FIELD1": 175,
-   "Coin Name": "$NAKEDWALLET",
-   "Description": "Where your dreams go to die."
- },
- {
-   "FIELD1": 176,
-   "Coin Name": "$LAZYWALLET",
-   "Description": "Where your dreams go to die."
- },
- {
-   "FIELD1": 177,
-   "Coin Name": "$FATCHART",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 178,
-   "Coin Name": "$LICKDOG",
-   "Description": "Only for the brave and the gross."
- },
- {
-   "FIELD1": 179,
-   "Coin Name": "$ZOOMER",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 180,
-   "Coin Name": "$FLIPDREAM",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 181,
-   "Coin Name": "$SICKBOY",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 182,
-   "Coin Name": "$SICKNOPE",
-   "Description": "Just don’t."
- },
- {
-   "FIELD1": 183,
-   "Coin Name": "$FART",
-   "Description": "Silent but deadly tokenomics."
- },
- {
-   "FIELD1": 184,
-   "Coin Name": "$DRAINSNIFF",
-   "Description": "Weird coin. Don’t ask questions."
- },
- {
-   "FIELD1": 185,
-   "Coin Name": "$STUPIDSNACK",
-   "Description": "Hot coin. Holders even hotter."
- },
- {
-   "FIELD1": 186,
-   "Coin Name": "$BUYWALLET",
-   "Description": "Where your dreams go to die."
- },
- {
-   "FIELD1": 187,
-   "Coin Name": "$TINYDREAM",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 188,
-   "Coin Name": "$WHOOPS",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 189,
-   "Coin Name": "$REKT",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 190,
-   "Coin Name": "$RIZZBOIL",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 191,
-   "Coin Name": "$BOY",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 192,
-   "Coin Name": "$BUYGOOBER",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 193,
-   "Coin Name": "$WALLET",
-   "Description": "Where your dreams go to die."
- },
- {
-   "FIELD1": 194,
-   "Coin Name": "$FLIPCOIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 195,
-   "Coin Name": "$KEVIN",
-   "Description": "No context. Just Kevin."
- },
- {
-   "FIELD1": 196,
-   "Coin Name": "$LICKGOBLIN",
-   "Description": "Only for the brave and the gross."
- },
- {
-   "FIELD1": 197,
-   "Coin Name": "$TINYBRAIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 198,
-   "Coin Name": "$NAKEDSNACK",
-   "Description": "Hot coin. Holders even hotter."
- },
- {
-   "FIELD1": 199,
-   "Coin Name": "$MADLIQUID",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 200,
-   "Coin Name": "$CRYCAT",
-   "Description": "Post-trade depression included."
- },
- {
-   "FIELD1": 201,
-   "Coin Name": "$SWIPEGRANNY",
-   "Description": "Slow, steady, still beat you."
- },
- {
-   "FIELD1": 202,
-   "Coin Name": "$SENDLOSS",
-   "Description": "Chart flatlined. Holder hopes haven’t."
- },
- {
-   "FIELD1": 203,
-   "Coin Name": "$BAG",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 204,
-   "Coin Name": "$SWIPEGOBLIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 205,
-   "Coin Name": "$BUYSOCK",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 206,
-   "Coin Name": "$ZOOMGOOBER",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 207,
-   "Coin Name": "$STUPIDKEVIN",
-   "Description": "No context. Just Stupidkevin."
- },
- {
-   "FIELD1": 208,
-   "Coin Name": "$BUYMEME",
-   "Description": "Meta af. Self-aware coin culture."
- },
- {
-   "FIELD1": 209,
-   "Coin Name": "$CRINGETOE",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 210,
-   "Coin Name": "$MADMEME",
-   "Description": "Meta af. Self-aware coin culture."
- },
- {
-   "FIELD1": 211,
-   "Coin Name": "$ELON",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 212,
-   "Coin Name": "$RIZZNOPE",
-   "Description": "Just don’t."
- },
- {
-   "FIELD1": 213,
-   "Coin Name": "$GRANNY",
-   "Description": "Slow, steady, still beat you."
- },
- {
-   "FIELD1": 214,
-   "Coin Name": "$DREAM",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 215,
-   "Coin Name": "$CRYGRANNY",
-   "Description": "Slow, steady, still beat you."
- },
- {
-   "FIELD1": 216,
-   "Coin Name": "$TINYKEVIN",
-   "Description": "No context. Just Tinykevin."
- },
- {
-   "FIELD1": 217,
-   "Coin Name": "$CRYRICE",
-   "Description": "Post-trade depression included."
- },
- {
-   "FIELD1": 218,
-   "Coin Name": "$STUPIDBAG",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 219,
-   "Coin Name": "$SCANHOPE",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 220,
-   "Coin Name": "$SENDCHART",
-   "Description": "No thought. Just send it."
- },
- {
-   "FIELD1": 221,
-   "Coin Name": "$DRYDEGEN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 222,
-   "Coin Name": "$ZZZZZ",
-   "Description": "Sleepcoin. Nothing happens. Ever."
- },
- {
-   "FIELD1": 223,
-   "Coin Name": "$TINYLOSS",
-   "Description": "Chart flatlined. Holder hopes haven’t."
- },
- {
-   "FIELD1": 224,
-   "Coin Name": "$DUMBTOE",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 225,
-   "Coin Name": "$CRYGOOBER",
-   "Description": "Post-trade depression included."
- },
- {
-   "FIELD1": 226,
-   "Coin Name": "$CRINGEKEVIN",
-   "Description": "No context. Just Cringekevin."
- },
- {
-   "FIELD1": 227,
-   "Coin Name": "$FLIPINCH",
-   "Description": "Average size. Above-average losses."
- },
- {
-   "FIELD1": 228,
-   "Coin Name": "$CLICKLOSS",
-   "Description": "Chart flatlined. Holder hopes haven’t."
- },
- {
-   "FIELD1": 229,
-   "Coin Name": "$RIZZFART",
-   "Description": "Silent but deadly tokenomics."
- },
- {
-   "FIELD1": 230,
-   "Coin Name": "$LOSELIQUID",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 231,
-   "Coin Name": "$SICKTOE",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 232,
-   "Coin Name": "$SENDLIQUID",
-   "Description": "No thought. Just send it."
- },
- {
-   "FIELD1": 233,
-   "Coin Name": "$DEADLOSS",
-   "Description": "Chart flatlined. Holder hopes haven’t."
- },
- {
-   "FIELD1": 234,
-   "Coin Name": "$CLICKBRAIN",
-   "Description": "Only for the brave and the gross."
- },
- {
-   "FIELD1": 235,
-   "Coin Name": "$LOSTDEGEN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 236,
-   "Coin Name": "$SICKCAT",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 237,
-   "Coin Name": "$HARDINCH",
-   "Description": "Average size. Above-average losses."
- },
- {
-   "FIELD1": 238,
-   "Coin Name": "$RAWR",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 239,
-   "Coin Name": "$SICKSNACK",
-   "Description": "Hot coin. Holders even hotter."
- },
- {
-   "FIELD1": 240,
-   "Coin Name": "$FATRICE",
-   "Description": "Post-trade diet begins now."
- },
- {
-   "FIELD1": 241,
-   "Coin Name": "$FREAKYDOG",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 242,
-   "Coin Name": "$BUYBOIL",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 243,
-   "Coin Name": "$ZOOMBRAIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 244,
-   "Coin Name": "$CRINGEGOOBER",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 245,
-   "Coin Name": "$MOANLIQUID",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 246,
-   "Coin Name": "$BLINDKEVIN",
-   "Description": "No context. Just Blindkevin."
- },
- {
-   "FIELD1": 247,
-   "Coin Name": "$HOTZOMBIE",
-   "Description": "It’s dead. But still trading."
- },
- {
-   "FIELD1": 248,
-   "Coin Name": "$CRINGEBOIL",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 249,
-   "Coin Name": "$DRAINCOIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 250,
-   "Coin Name": "$HOTBRAIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 251,
-   "Coin Name": "$LAZYBOIL",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 252,
-   "Coin Name": "$CRYHOPE",
-   "Description": "Post-trade depression included."
- },
- {
-   "FIELD1": 253,
-   "Coin Name": "$NAKEDRICE",
-   "Description": "Post-trade diet begins now."
- },
- {
-   "FIELD1": 254,
-   "Coin Name": "$SCROLLTAX",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 255,
-   "Coin Name": "$STUPIDZOMBIE",
-   "Description": "It’s dead. But still trading."
- },
- {
-   "FIELD1": 256,
-   "Coin Name": "$DUMBSNACK",
-   "Description": "Hot coin. Holders even hotter."
- },
- {
-   "FIELD1": 257,
-   "Coin Name": "$LOSS",
-   "Description": "Chart flatlined. Holder hopes haven’t."
- },
- {
-   "FIELD1": 258,
-   "Coin Name": "$BLINDTOE",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 259,
-   "Coin Name": "$HOTRICE",
-   "Description": "Post-trade diet begins now."
- },
- {
-   "FIELD1": 260,
-   "Coin Name": "$HOTTOE",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 261,
-   "Coin Name": "$LOSTBRAIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 262,
-   "Coin Name": "$DEGEN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 263,
-   "Coin Name": "$YEET",
-   "Description": "Sent with no target. Just vibes."
- },
- {
-   "FIELD1": 264,
-   "Coin Name": "$SOFTDOG",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 265,
-   "Coin Name": "$CRYPISS",
-   "Description": "Post-trade depression included."
- },
- {
-   "FIELD1": 266,
-   "Coin Name": "$SCANTOE",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 267,
-   "Coin Name": "$LIQUID",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 268,
-   "Coin Name": "$TINYWALLET",
-   "Description": "Where your dreams go to die."
- },
- {
-   "FIELD1": 269,
-   "Coin Name": "$DUMBCAT",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 270,
-   "Coin Name": "$DUMPZOMBIE",
-   "Description": "It’s dead. But still trading."
- },
- {
-   "FIELD1": 271,
-   "Coin Name": "$SNIFFGOBLIN",
-   "Description": "Weird coin. Don’t ask questions."
- },
- {
-   "FIELD1": 272,
-   "Coin Name": "$MEH",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 273,
-   "Coin Name": "$APEGRANNY",
-   "Description": "Slow, steady, still beat you."
- },
- {
-   "FIELD1": 274,
-   "Coin Name": "$HARDCAT",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 275,
-   "Coin Name": "$FATPISS",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 276,
-   "Coin Name": "$HOTBOIL",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 277,
-   "Coin Name": "$COPEHOPE",
-   "Description": "Post-trade depression included."
- },
- {
-   "FIELD1": 278,
-   "Coin Name": "$CLICKGOOBER",
-   "Description": "Only for the brave and the gross."
- },
- {
-   "FIELD1": 279,
-   "Coin Name": "$MOANDREAM",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 280,
-   "Coin Name": "$YEETLIQUID",
-   "Description": "Sent with no target. Just vibes."
- },
- {
-   "FIELD1": 281,
-   "Coin Name": "$TINYLIQUID",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 282,
-   "Coin Name": "$CLICKBOY",
-   "Description": "Only for the brave and the gross."
- },
- {
-   "FIELD1": 283,
-   "Coin Name": "$LOSEKEVIN",
-   "Description": "No context. Just Losekevin."
- },
- {
-   "FIELD1": 284,
-   "Coin Name": "$SWIPEBOIL",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 285,
-   "Coin Name": "$SADLOSS",
-   "Description": "Chart flatlined. Holder hopes haven’t."
- },
- {
-   "FIELD1": 286,
-   "Coin Name": "$SOFTSOCK",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 287,
-   "Coin Name": "$MOANBAG",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 288,
-   "Coin Name": "$CAT",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 289,
-   "Coin Name": "$CRYKEVIN",
-   "Description": "Post-trade depression included."
- },
- {
-   "FIELD1": 290,
-   "Coin Name": "$CRYBOIL",
-   "Description": "Post-trade depression included."
- },
- {
-   "FIELD1": 291,
-   "Coin Name": "$ZOMBIE",
-   "Description": "It’s dead. But still trading."
- },
- {
-   "FIELD1": 292,
-   "Coin Name": "$DEADHOPE",
-   "Description": "Chart flatlined. Holder hopes haven’t."
- },
- {
-   "FIELD1": 293,
-   "Coin Name": "$CRYFART",
-   "Description": "Silent but deadly tokenomics."
- },
- {
-   "FIELD1": 294,
-   "Coin Name": "$TOE",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 295,
-   "Coin Name": "$BLINDBAG",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 296,
-   "Coin Name": "$LOSEHOPE",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 297,
-   "Coin Name": "$YEETHOPE",
-   "Description": "Sent with no target. Just vibes."
- },
- {
-   "FIELD1": 298,
-   "Coin Name": "$LOSTSOCK",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 299,
-   "Coin Name": "$SICKMEME",
-   "Description": "Meta af. Self-aware coin culture."
- },
- {
-   "FIELD1": 300,
-   "Coin Name": "$LICKCOIN",
-   "Description": "Only for the brave and the gross."
- },
- {
-   "FIELD1": 301,
-   "Coin Name": "$CRINGEMEME",
-   "Description": "Meta af. Self-aware coin culture."
- },
- {
-   "FIELD1": 302,
-   "Coin Name": "$TINYSNIFF",
-   "Description": "Weird coin. Don’t ask questions."
- },
- {
-   "FIELD1": 303,
-   "Coin Name": "$FATDEGEN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 304,
-   "Coin Name": "$FATBOY",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 305,
-   "Coin Name": "$DANG",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 306,
-   "Coin Name": "$HARDGRANNY",
-   "Description": "Slow, steady, still beat you."
- },
- {
-   "FIELD1": 307,
-   "Coin Name": "$HOTSOCK",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 308,
-   "Coin Name": "$SADCAT",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 309,
-   "Coin Name": "$CHAD",
-   "Description": "No context. Just Chad."
- },
- {
-   "FIELD1": 310,
-   "Coin Name": "$LOSEINCH",
-   "Description": "Average size. Above-average losses."
- },
- {
-   "FIELD1": 311,
-   "Coin Name": "$SCROLLSNACK",
-   "Description": "Hot coin. Holders even hotter."
- },
- {
-   "FIELD1": 312,
-   "Coin Name": "$CLICKDREAM",
-   "Description": "Only for the brave and the gross."
- },
- {
-   "FIELD1": 313,
-   "Coin Name": "$MINTCOIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 314,
-   "Coin Name": "$SCROLLBRAIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 315,
-   "Coin Name": "$SCANBAG",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 316,
-   "Coin Name": "$SOFTCAT",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 317,
-   "Coin Name": "$TINYTAX",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 318,
-   "Coin Name": "$DUMBCHART",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 319,
-   "Coin Name": "$CRINGEFART",
-   "Description": "Silent but deadly tokenomics."
- },
- {
-   "FIELD1": 320,
-   "Coin Name": "$COPECHART",
-   "Description": "Post-trade depression included."
- },
- {
-   "FIELD1": 321,
-   "Coin Name": "$CRINGEPISS",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 322,
-   "Coin Name": "$UNCLE",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 323,
-   "Coin Name": "$BRAD",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 324,
-   "Coin Name": "$DUMPCOIN",
-   "Description": "It never pumped, but it dumped."
- },
- {
-   "FIELD1": 325,
-   "Coin Name": "$LOSEBRAIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 326,
-   "Coin Name": "$SWIPEGOOBER",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 327,
-   "Coin Name": "$HARDBOIL",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 328,
-   "Coin Name": "$WOOP",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 329,
-   "Coin Name": "$SWIPELIQUID",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 330,
-   "Coin Name": "$RIZZINCH",
-   "Description": "Average size. Above-average losses."
- },
- {
-   "FIELD1": 331,
-   "Coin Name": "$SENDBRAIN",
-   "Description": "No thought. Just send it."
- },
- {
-   "FIELD1": 332,
-   "Coin Name": "$SOFTTAX",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 333,
-   "Coin Name": "$LICKDEGEN",
-   "Description": "Only for the brave and the gross."
- },
- {
-   "FIELD1": 334,
-   "Coin Name": "$SLORP",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 335,
-   "Coin Name": "$BROKEMEME",
-   "Description": "Meta af. Self-aware coin culture."
- },
- {
-   "FIELD1": 336,
-   "Coin Name": "$WEW",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 337,
-   "Coin Name": "$BROKENOPE",
-   "Description": "Just don’t."
- },
- {
-   "FIELD1": 338,
-   "Coin Name": "$YEETBAG",
-   "Description": "Sent with no target. Just vibes."
- },
- {
-   "FIELD1": 339,
-   "Coin Name": "$BLINDLOSS",
-   "Description": "Chart flatlined. Holder hopes haven’t."
- },
- {
-   "FIELD1": 340,
-   "Coin Name": "$SOCK",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 341,
-   "Coin Name": "$LAZYBRAIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 342,
-   "Coin Name": "$DRYRICE",
-   "Description": "Post-trade diet begins now."
- },
- {
-   "FIELD1": 343,
-   "Coin Name": "$FREDDY",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 344,
-   "Coin Name": "$LOSTLIQUID",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 345,
-   "Coin Name": "$NAKEDDREAM",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 346,
-   "Coin Name": "$WEIRDHOPE",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 347,
-   "Coin Name": "$DUMPGOBLIN",
-   "Description": "It never pumped, but it dumped."
- },
- {
-   "FIELD1": 348,
-   "Coin Name": "$COPECOIN",
-   "Description": "Post-trade depression included."
- },
- {
-   "FIELD1": 349,
-   "Coin Name": "$SADKEVIN",
-   "Description": "No context. Just Sadkevin."
- },
- {
-   "FIELD1": 350,
-   "Coin Name": "$NANCY",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 351,
-   "Coin Name": "$HARDHOPE",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 352,
-   "Coin Name": "$SNIFFDOG",
-   "Description": "Weird coin. Don’t ask questions."
- },
- {
-   "FIELD1": 353,
-   "Coin Name": "$LUNA",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 354,
-   "Coin Name": "$LARRY",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 355,
-   "Coin Name": "$DRYHOPE",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 356,
-   "Coin Name": "$SNIFFDEGEN",
-   "Description": "Weird coin. Don’t ask questions."
- },
- {
-   "FIELD1": 357,
-   "Coin Name": "$NAKEDBOIL",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 358,
-   "Coin Name": "$WETSNIFF",
-   "Description": "Weird coin. Don’t ask questions."
- },
- {
-   "FIELD1": 359,
-   "Coin Name": "$LAZYCAT",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 360,
-   "Coin Name": "$OOMF",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 361,
-   "Coin Name": "$CLICKRICE",
-   "Description": "Only for the brave and the gross."
- },
- {
-   "FIELD1": 362,
-   "Coin Name": "$SOFTLIQUID",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 363,
-   "Coin Name": "$SOFTINCH",
-   "Description": "Average size. Above-average losses."
- },
- {
-   "FIELD1": 364,
-   "Coin Name": "$DRAINLOSS",
-   "Description": "Chart flatlined. Holder hopes haven’t."
- },
- {
-   "FIELD1": 365,
-   "Coin Name": "$BLINDBOIL",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 366,
-   "Coin Name": "$ZOOMNOPE",
-   "Description": "Just don’t."
- },
- {
-   "FIELD1": 367,
-   "Coin Name": "$HOTCAT",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 368,
-   "Coin Name": "$WETCAT",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 369,
-   "Coin Name": "$APEDEGEN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 370,
-   "Coin Name": "$SWIPEDOG",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 371,
-   "Coin Name": "$KAREN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 372,
-   "Coin Name": "$MEME",
-   "Description": "Meta af. Self-aware coin culture."
- },
- {
-   "FIELD1": 373,
-   "Coin Name": "$NAKEDHOPE",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 374,
-   "Coin Name": "$ZOOMKEVIN",
-   "Description": "No context. Just Zoomkevin."
- },
- {
-   "FIELD1": 375,
-   "Coin Name": "$FATSOCK",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 376,
-   "Coin Name": "$DUMPRICE",
-   "Description": "Post-trade diet begins now."
- },
- {
-   "FIELD1": 377,
-   "Coin Name": "$LOSECOIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 378,
-   "Coin Name": "$SNIFFKEVIN",
-   "Description": "Weird coin. Don’t ask questions."
- },
- {
-   "FIELD1": 379,
-   "Coin Name": "$DRYBOIL",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 380,
-   "Coin Name": "$RIZZTOE",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 381,
-   "Coin Name": "$YEETCOIN",
-   "Description": "Sent with no target. Just vibes."
- },
- {
-   "FIELD1": 382,
-   "Coin Name": "$WEIRDRICE",
-   "Description": "Post-trade diet begins now."
- },
- {
-   "FIELD1": 383,
-   "Coin Name": "$SOFTCHART",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 384,
-   "Coin Name": "$WETRICE",
-   "Description": "Post-trade diet begins now."
- },
- {
-   "FIELD1": 385,
-   "Coin Name": "$FATNOPE",
-   "Description": "Just don’t."
- },
- {
-   "FIELD1": 386,
-   "Coin Name": "$GRRR",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 387,
-   "Coin Name": "$BROKEDOG",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 388,
-   "Coin Name": "$INCH",
-   "Description": "Average size. Above-average losses."
- },
- {
-   "FIELD1": 389,
-   "Coin Name": "$MOANRICE",
-   "Description": "Post-trade diet begins now."
- },
- {
-   "FIELD1": 390,
-   "Coin Name": "$MADNOPE",
-   "Description": "Just don’t."
- },
- {
-   "FIELD1": 391,
-   "Coin Name": "$SCROLLPISS",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 392,
-   "Coin Name": "$WEIRDGOBLIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 393,
-   "Coin Name": "$CRINGEINCH",
-   "Description": "Average size. Above-average losses."
- },
- {
-   "FIELD1": 394,
-   "Coin Name": "$SOFTBRAIN",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 395,
-   "Coin Name": "$COPEBOIL",
-   "Description": "Post-trade depression included."
- },
- {
-   "FIELD1": 396,
-   "Coin Name": "$WEIRDFART",
-   "Description": "Silent but deadly tokenomics."
- },
- {
-   "FIELD1": 397,
-   "Coin Name": "$MOANCHART",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 398,
-   "Coin Name": "$CHART",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 399,
-   "Coin Name": "$MINTCAT",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 400,
-   "Coin Name": "$MINTGOOBER",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 401,
-   "Coin Name": "$SENDWALLET",
-   "Description": "Where your dreams go to die."
- },
- {
-   "FIELD1": 402,
-   "Coin Name": "$FREAKYSNACK",
-   "Description": "Hot coin. Holders even hotter."
- },
- {
-   "FIELD1": 403,
-   "Coin Name": "$LOSEBOIL",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 404,
-   "Coin Name": "$SICKDOG",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 405,
-   "Coin Name": "$MOANWALLET",
-   "Description": "Where your dreams go to die."
- },
- {
-   "FIELD1": 406,
-   "Coin Name": "$LICKBOY",
-   "Description": "Only for the brave and the gross."
- },
- {
-   "FIELD1": 407,
-   "Coin Name": "$SWIPESNACK",
-   "Description": "Hot coin. Holders even hotter."
- },
- {
-   "FIELD1": 408,
-   "Coin Name": "$DUMBTAX",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 409,
-   "Coin Name": "$ZOOMBOY",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 410,
-   "Coin Name": "$FLIPLIQUID",
-   "Description": "No utility. All personality."
- },
- {
-   "FIELD1": 411,
-   "Coin Name": "$BROKEAF",
-   "Description": "For the community that buys tops and sells bottoms."
- },
- {
-   "FIELD1": 412,
-   "Coin Name": "$FUDME",
-   "Description": "It wants to be hated."
- },
- {
-   "FIELD1": 413,
-   "Coin Name": "$RUGGED",
-   "Description": "Name says it all, at least it’s honest."
- },
- {
-   "FIELD1": 414,
-   "Coin Name": "$DEADCAT",
-   "Description": "The bounce that never happened."
- },
- {
-   "FIELD1": 415,
-   "Coin Name": "$DUMPSTER",
-   "Description": "Where your portfolio lives."
- },
- {
-   "FIELD1": 416,
-   "Coin Name": "$MOMCOIN",
-   "Description": "Tell her you made it… kinda."
- },
- {
-   "FIELD1": 417,
-   "Coin Name": "$SIMP",
-   "Description": "Max wallet is her OnlyFans."
- },
- {
-   "FIELD1": 418,
-   "Coin Name": "$STIMMY",
-   "Description": "Funded entirely by government checks."
- },
- {
-   "FIELD1": 419,
-   "Coin Name": "$PEEHPEE",
-   "Description": "Childish? Yes. Viral? Absolutely."
- },
- {
-   "FIELD1": 420,
-   "Coin Name": "$ZEROGF",
-   "Description": "For incels and involuntary holders."
- },
- {
-   "FIELD1": 421,
-   "Coin Name": "$LICKME",
-   "Description": "The branding just writes itself."
- },
- {
-   "FIELD1": 422,
-   "Coin Name": "$EXITLIQ",
-   "Description": "Become the bagholder you were born to be."
- },
- {
-   "FIELD1": 423,
-   "Coin Name": "$DADDY",
-   "Description": "Pumps only when he’s watching."
- },
- {
-   "FIELD1": 424,
-   "Coin Name": "$IRLPAIN",
-   "Description": "Chart goes down, trauma goes up."
- },
- {
-   "FIELD1": 426,
-   "Coin Name": "$R3KT",
-   "Description": "In all caps, like your losses."
- },
- {
-   "FIELD1": 427,
-   "Coin Name": "$COPE",
-   "Description": "Designed for post-trade depression."
- },
- {
-   "FIELD1": 428,
-   "Coin Name": "$DEGENZ",
-   "Description": "Utility: none. Vibes: immaculate."
- },
- {
-   "FIELD1": 429,
-   "Coin Name": "$NOTRUG",
-   "Description": "Definitely 100% not a rug (rugged in 3 mins)."
- },
- {
-   "FIELD1": 430,
-   "Coin Name": "$LMAOBTC",
-   "Description": "Flipping Bitcoin in memes only."
- },
- {
-   "FIELD1": 431,
-   "Coin Name": "$TAXEVADER",
-   "Description": "Catch me if you can."
- },
- {
-   "FIELD1": 432,
-   "Coin Name": "$FINGERED",
-   "Description": "Too deep in the dip."
- },
- {
-   "FIELD1": 433,
-   "Coin Name": "$TOESUCK",
-   "Description": "Utility unknown, community unhinged."
- },
- {
-   "FIELD1": 434,
-   "Coin Name": "$CRINGE",
-   "Description": "Buy it ironically, lose unironically."
- },
- {
-   "FIELD1": 435,
-   "Coin Name": "$OVERTHINK",
-   "Description": "Buys late, sells early."
- },
- {
-   "FIELD1": 436,
-   "Coin Name": "$NOHOPE",
-   "Description": "Hope is not a strategy."
- },
- {
-   "FIELD1": 437,
-   "Coin Name": "$BOILRICE",
-   "Description": "For the post-trade diet."
- },
- {
-   "FIELD1": 438,
-   "Coin Name": "$BLINDBUY",
-   "Description": "DYOR? Never heard of her."
- },
- {
-   "FIELD1": 439,
-   "Coin Name": "$ZZZZZZ",
-   "Description": "Sleepcoin. Nothing happens. Ever."
- },
- {
-   "FIELD1": 440,
-   "Coin Name": "$SENDIT",
-   "Description": "No thought, just vibes."
- },
- {
-   "FIELD1": 442,
-   "Coin Name": "$BANKRUN",
-   "Description": "The vibes are 1929."
- },
- {
-   "FIELD1": 443,
-   "Coin Name": "$OHFART",
-   "Description": "Because every trade ends in regret."
- },
- {
-   "FIELD1": 445,
-   "Coin Name": "$SNIFFME",
-   "Description": "Weird coin. Don’t ask questions."
- },
- {
-   "FIELD1": 447,
-   "Coin Name": "$MADEIT",
-   "Description": "Only goes live after a -99%."
- },
- {
-   "FIELD1": 448,
-   "Coin Name": "$5INCH",
-   "Description": "Average size, above-average volatility."
- },
- {
-   "FIELD1": 449,
-   "Coin Name": "$SNACC",
-   "Description": "For hot coins and hotter holders."
- },
- {
-   "FIELD1": 450,
-   "Coin Name": "$DEADLINE",
-   "Description": "Missed it again."
- },
- {
-   "FIELD1": 451,
-   "Coin Name": "$BRAINROT",
-   "Description": "Scroll Twitter. Buy. Regret."
- },
- {
-   "FIELD1": 452,
-   "Coin Name": "$SADBOY",
-   "Description": "Chart in tears, holders in therapy."
- },
- {
-   "FIELD1": 453,
-   "Coin Name": "$WRONGCHAIN",
-   "Description": "Always bridged to the wrong L1."
- }
+  {
+    "FIELD1": 0,
+    "Coin Name": "$BROKEAF",
+    "Description": "Buys tops, sells bottoms. The community coin of eternal pain."
+  },
+  {
+    "FIELD1": 1,
+    "Coin Name": "$FUDME",
+    "Description": "Hated by design. Pumped by masochists."
+  },
+  {
+    "FIELD1": 2,
+    "Coin Name": "$RUGGED",
+    "Description": "Honest name. Dishonest devs."
+  },
+  {
+    "FIELD1": 3,
+    "Coin Name": "$DEADCAT",
+    "Description": "The bounce that never happened."
+  },
+  {
+    "FIELD1": 4,
+    "Coin Name": "$DUMPSTER",
+    "Description": "Your portfolio’s forever home."
+  },
+  {
+    "FIELD1": 5,
+    "Coin Name": "$MOMCOIN",
+    "Description": "Tell her you made it… kinda."
+  },
+  {
+    "FIELD1": 6,
+    "Coin Name": "$SIMP",
+    "Description": "Max wallet capped at her OnlyFans subscription."
+  },
+  {
+    "FIELD1": 7,
+    "Coin Name": "$STIMMY",
+    "Description": "Government-funded, rug-delivered."
+  },
+  {
+    "FIELD1": 8,
+    "Coin Name": "$PEEHPEE",
+    "Description": "Childish? Yes. Viral? Absolutely."
+  },
+  {
+    "FIELD1": 9,
+    "Coin Name": "$ZEROGF",
+    "Description": "For incels and involuntary holders."
+  },
+  {
+    "FIELD1": 10,
+    "Coin Name": "$LICKME",
+    "Description": "The branding writes itself."
+  },
+  {
+    "FIELD1": 11,
+    "Coin Name": "$EXITLIQ",
+    "Description": "Born to baghold."
+  },
+  {
+    "FIELD1": 12,
+    "Coin Name": "$DADDY",
+    "Description": "Only pumps when he’s watching."
+  },
+  {
+    "FIELD1": 13,
+    "Coin Name": "$IRLPAIN",
+    "Description": "Chart goes down, trauma goes up."
+  },
+  {
+    "FIELD1": 14,
+    "Coin Name": "$FART",
+    "Description": "Gassy tokenomics. Silent but deadly."
+  },
+  {
+    "FIELD1": 15,
+    "Coin Name": "$R3KT",
+    "Description": "All caps. Like your losses."
+  },
+  {
+    "FIELD1": 16,
+    "Coin Name": "$COPE",
+    "Description": "Post-trade depression, tokenized."
+  },
+  {
+    "FIELD1": 17,
+    "Coin Name": "$DEGENZ",
+    "Description": "No utility. Immaculate vibes."
+  },
+  {
+    "FIELD1": 18,
+    "Coin Name": "$NOTRUG",
+    "Description": "Definitely not a rug. (Rugged in 3 minutes.)"
+  },
+  {
+    "FIELD1": 19,
+    "Coin Name": "$LMAOBTC",
+    "Description": "Flipping Bitcoin… in memes only."
+  },
+  {
+    "FIELD1": 20,
+    "Coin Name": "$TAXEVADER",
+    "Description": "Catch me if you can."
+  },
+  {
+    "FIELD1": 21,
+    "Coin Name": "$FINGERED",
+    "Description": "Went too deep in the dip."
+  },
+  {
+    "FIELD1": 22,
+    "Coin Name": "$TOESUCK",
+    "Description": "Utility unknown. Community unhinged."
+  },
+  {
+    "FIELD1": 23,
+    "Coin Name": "$CRINGE",
+    "Description": "Buy it ironically. Lose unironically."
+  },
+  {
+    "FIELD1": 24,
+    "Coin Name": "$OVERTHINK",
+    "Description": "Buys late. Sells earlier."
+  },
+  {
+    "FIELD1": 25,
+    "Coin Name": "$NOHOPE",
+    "Description": "Hope is not a strategy."
+  },
+  {
+    "FIELD1": 26,
+    "Coin Name": "$BOILRICE",
+    "Description": "Post-trade diet essentials."
+  },
+  {
+    "FIELD1": 27,
+    "Coin Name": "$BLINDBUY",
+    "Description": "DYOR? Never heard of her."
+  },
+  {
+    "FIELD1": 28,
+    "Coin Name": "$ZZZZZZ",
+    "Description": "Sleepcoin. Nothing ever happens."
+  },
+  {
+    "FIELD1": 29,
+    "Coin Name": "$SENDIT",
+    "Description": "No thought. Just vibes."
+  },
+  {
+    "FIELD1": 30,
+    "Coin Name": "$GRANNY",
+    "Description": "Slow and steady still wrecks you."
+  },
+  {
+    "FIELD1": 31,
+    "Coin Name": "$BANKRUN",
+    "Description": "1929 vibes with meme tech."
+  },
+  {
+    "FIELD1": 32,
+    "Coin Name": "$OHFART",
+    "Description": "Because every trade ends in regret."
+  },
+  {
+    "FIELD1": 33,
+    "Coin Name": "$KEVIN",
+    "Description": "No context. Just Kevin."
+  },
+  {
+    "FIELD1": 34,
+    "Coin Name": "$SNIFFME",
+    "Description": "Weird coin. Don’t ask."
+  },
+  {
+    "FIELD1": 35,
+    "Coin Name": "$GOOBER",
+    "Description": "Dev is 9. Contracts are clean."
+  },
+  {
+    "FIELD1": 36,
+    "Coin Name": "$MADEIT",
+    "Description": "Goes live after a -99%."
+  },
+  {
+    "FIELD1": 37,
+    "Coin Name": "$5INCH",
+    "Description": "Average size. Above-average volatility."
+  },
+  {
+    "FIELD1": 38,
+    "Coin Name": "$SNACC",
+    "Description": "Hot coins. Hotter holders."
+  },
+  {
+    "FIELD1": 39,
+    "Coin Name": "$DEADLINE",
+    "Description": "Missed it again."
+  },
+  {
+    "FIELD1": 40,
+    "Coin Name": "$BRAINROT",
+    "Description": "Scroll Twitter. Buy. Regret."
+  },
+  {
+    "FIELD1": 41,
+    "Coin Name": "$SADBOY",
+    "Description": "Chart in tears. Holders in therapy."
+  },
+  {
+    "FIELD1": 42,
+    "Coin Name": "$WRONGCHAIN",
+    "Description": "Always bridged to the wrong L1."
+  },
+  {
+    "FIELD1": 43,
+    "Coin Name": "$WHOOPS",
+    "Description": "Accidental launch. Intentional gains."
+  },
+  {
+    "FIELD1": 44,
+    "Coin Name": "$BROKEBAG",
+    "Description": "Wrecked on arrival."
+  },
+  {
+    "FIELD1": 45,
+    "Coin Name": "$CAT",
+    "Description": "Wasn’t supposed to work. Still kinda does."
+  },
+  {
+    "FIELD1": 46,
+    "Coin Name": "$MADBOIL",
+    "Description": "An L you’ll learn to love."
+  },
+  {
+    "FIELD1": 47,
+    "Coin Name": "$STUPIDWALLET",
+    "Description": "Might go zero. Worth the shot."
+  },
+  {
+    "FIELD1": 48,
+    "Coin Name": "$RAWR",
+    "Description": "Born from a tweet. Raised in cope."
+  },
+  {
+    "FIELD1": 49,
+    "Coin Name": "$SNIFFCOIN",
+    "Description": "Charted with chaos. Delivered with drama."
+  },
+  {
+    "FIELD1": 50,
+    "Coin Name": "$DEADDREAM",
+    "Description": "Liquidity? Never heard of her."
+  },
+  {
+    "FIELD1": 51,
+    "Coin Name": "$SCANMEME",
+    "Description": "Not financial advice. Just bad decisions."
+  },
+  {
+    "FIELD1": 52,
+    "Coin Name": "$COPEPISS",
+    "Description": "Engineered for regret. Loved by degens."
+  },
+  {
+    "FIELD1": 53,
+    "Coin Name": "$LOSEGOBLIN",
+    "Description": "Exists to test your patience."
+  },
+  {
+    "FIELD1": 54,
+    "Coin Name": "$HOTBOY",
+    "Description": "If chaos had a ticker."
+  },
+  {
+    "FIELD1": 55,
+    "Coin Name": "$APERICE",
+    "Description": "High conviction. Low IQ."
+  },
+  {
+    "FIELD1": 56,
+    "Coin Name": "$LICKSOCK",
+    "Description": "Viral for all the wrong reasons."
+  },
+  {
+    "FIELD1": 57,
+    "Coin Name": "$TINA",
+    "Description": "A meme, a dream, and a scream."
+  },
+  {
+    "FIELD1": 58,
+    "Coin Name": "$WETRICE",
+    "Description": "Runs on vibes, fumes, and zero fundamentals."
+  },
+  {
+    "FIELD1": 59,
+    "Coin Name": "$NAKEDBOY",
+    "Description": "Backed by memes. Driven by desperation."
+  },
+  {
+    "FIELD1": 60,
+    "Coin Name": "$RIZZGRANNY",
+    "Description": "Born useless. Mooned regardless."
+  },
+  {
+    "FIELD1": 61,
+    "Coin Name": "$DEADSNIFF",
+    "Description": "Smells like hopium and bad decisions."
+  },
+  {
+    "FIELD1": 62,
+    "Coin Name": "$LOSTBOY",
+    "Description": "The dev is a vibe. The coin is not."
+  },
+  {
+    "FIELD1": 63,
+    "Coin Name": "$RIZZPISS",
+    "Description": "Looks illegal. Trades legal."
+  },
+  {
+    "FIELD1": 64,
+    "Coin Name": "$APEDREAM",
+    "Description": "Dreamed big. Aped harder. Slept through the pump."
+  },
+  {
+    "FIELD1": 65,
+    "Coin Name": "$FREDDY",
+    "Description": "Haunts your wallet like it's Elm Street."
+  },
+  {
+    "FIELD1": 66,
+    "Coin Name": "$SADTOE",
+    "Description": "Stubbed on the dip. Cried on the chart."
+  },
+  {
+    "FIELD1": 67,
+    "Coin Name": "$SIMON",
+    "Description": "Says nothing. Still got rugged."
+  },
+  {
+    "FIELD1": 68,
+    "Coin Name": "$SOCK",
+    "Description": "Lost in the wash and the blockchain."
+  },
+  {
+    "FIELD1": 69,
+    "Coin Name": "$SCROLLPISS",
+    "Description": "Scrolled too far. Now it stinks."
+  },
+  {
+    "FIELD1": 70,
+    "Coin Name": "$MOANLIQUID",
+    "Description": "Drips hopium. Moans despair."
+  },
+  {
+    "FIELD1": 71,
+    "Coin Name": "$FREAKYBRAIN",
+    "Description": "Overthinks. Underperforms. Always weird."
+  },
+  {
+    "FIELD1": 72,
+    "Coin Name": "$DANG",
+    "Description": "Almost moon. Almost."
+  },
+  {
+    "FIELD1": 73,
+    "Coin Name": "$APECHART",
+    "Description": "Smashed candle. Threw poop. Left chat."
+  },
+  {
+    "FIELD1": 74,
+    "Coin Name": "$FATSNACK",
+    "Description": "Thicc on hype. Zero nutritional value."
+  },
+  {
+    "FIELD1": 75,
+    "Coin Name": "$BUYGOBLIN",
+    "Description": "He lives in your wallet now."
+  },
+  {
+    "FIELD1": 76,
+    "Coin Name": "$JESUS",
+    "Description": "Turned water into exit liquidity."
+  },
+  {
+    "FIELD1": 77,
+    "Coin Name": "$DRAINCAT",
+    "Description": "Nine lives, all rekt."
+  },
+  {
+    "FIELD1": 78,
+    "Coin Name": "$DRYDEGEN",
+    "Description": "All risk. No drip."
+  },
+  {
+    "FIELD1": 79,
+    "Coin Name": "$SICKLOSS",
+    "Description": "Caught the top. Never recovered."
+  },
+  {
+    "FIELD1": 80,
+    "Coin Name": "$SNIFFINCH",
+    "Description": "Too small to matter. Still smells fishy."
+  },
+  {
+    "FIELD1": 81,
+    "Coin Name": "$BRAIN",
+    "Description": "Big brain plays. Small coin results."
+  },
+  {
+    "FIELD1": 82,
+    "Coin Name": "$DUMBLOSS",
+    "Description": "Should’ve sold. Didn’t."
+  },
+  {
+    "FIELD1": 83,
+    "Coin Name": "$STUPIDTOE",
+    "Description": "Kicked the rug. Blamed the dev."
+  },
+  {
+    "FIELD1": 84,
+    "Coin Name": "$SNACK",
+    "Description": "Tasty pump. Immediate dump."
+  },
+  {
+    "FIELD1": 85,
+    "Coin Name": "$CLICKBOY",
+    "Description": "Clicked. Bought. Regretted."
+  },
+  {
+    "FIELD1": 86,
+    "Coin Name": "$RIZZRICE",
+    "Description": "Smooth talker. Sticky bag."
+  },
+  {
+    "FIELD1": 87,
+    "Coin Name": "$NAKEDINCH",
+    "Description": "Not safe for wallets."
+  },
+  {
+    "FIELD1": 88,
+    "Coin Name": "$ZOOMCAT",
+    "Description": "Speed is a myth. It lagged."
+  },
+  {
+    "FIELD1": 89,
+    "Coin Name": "$MOANGOBLIN",
+    "Description": "Screams at charts. Never pumps."
+  },
+  {
+    "FIELD1": 90,
+    "Coin Name": "$LUNA",
+    "Description": "Name cursed. Chart worse."
+  },
+  {
+    "FIELD1": 91,
+    "Coin Name": "$PISS",
+    "Description": "Liquid assets. Yellow vibes."
+  },
+  {
+    "FIELD1": 92,
+    "Coin Name": "$LOSEMEME",
+    "Description": "The joke’s on you."
+  },
+  {
+    "FIELD1": 93,
+    "Coin Name": "$ZOOMGOBLIN",
+    "Description": "Turbo wreck incoming."
+  },
+  {
+    "FIELD1": 94,
+    "Coin Name": "$NAKEDLIQUID",
+    "Description": "Exposed liquidity. Raw Ls."
+  },
+  {
+    "FIELD1": 95,
+    "Coin Name": "$LOSTSOCK",
+    "Description": "Always missing. Never delisted."
+  },
+  {
+    "FIELD1": 96,
+    "Coin Name": "$BLINDLIQUID",
+    "Description": "Dived in blind. Sank fast."
+  },
+  {
+    "FIELD1": 97,
+    "Coin Name": "$WEIRDRICE",
+    "Description": "Soaked in bad decisions."
+  },
+  {
+    "FIELD1": 98,
+    "Coin Name": "$HOTMEME",
+    "Description": "Viral yesterday. Forgotten today."
+  },
+  {
+    "FIELD1": 99,
+    "Coin Name": "$SOFTGOBLIN",
+    "Description": "Not scary. Just sad."
+  },
+  {
+    "FIELD1": 100,
+    "Coin Name": "$CLICKLIQUID",
+    "Description": "Bought it by accident. Lost on purpose."
+  },
+  {
+    "FIELD1": 101,
+    "Coin Name": "$SWIPESOCK",
+    "Description": "Right swipe, wrong chart."
+  },
+  {
+    "FIELD1": 102,
+    "Coin Name": "$SWIPENOPE",
+    "Description": "Said yes. Should’ve said rug."
+  },
+  {
+    "FIELD1": 103,
+    "Coin Name": "$DEADMEME",
+    "Description": "Resurrected to disappoint again."
+  },
+  {
+    "FIELD1": 104,
+    "Coin Name": "$DRYDOG",
+    "Description": "No bark. No pump."
+  },
+  {
+    "FIELD1": 105,
+    "Coin Name": "$MINTGOBLIN",
+    "Description": "Minted straight into irrelevance."
+  },
+  {
+    "FIELD1": 106,
+    "Coin Name": "$ZOOMDOG",
+    "Description": "Fast fall. Faster regrets."
+  },
+  {
+    "FIELD1": 107,
+    "Coin Name": "$FATNOPE",
+    "Description": "Heavy on denial."
+  },
+  {
+    "FIELD1": 108,
+    "Coin Name": "$HARDBAG",
+    "Description": "Indestructible. Unprofitable."
+  },
+  {
+    "FIELD1": 109,
+    "Coin Name": "$DRAINHOPE",
+    "Description": "Sucked out your optimism."
+  },
+  {
+    "FIELD1": 110,
+    "Coin Name": "$BLINDCOIN",
+    "Description": "Never saw it coming."
+  },
+  {
+    "FIELD1": 111,
+    "Coin Name": "$LOSTNOPE",
+    "Description": "Misplaced your faith."
+  },
+  {
+    "FIELD1": 112,
+    "Coin Name": "$COPEBOY",
+    "Description": "Wears hopium like cologne."
+  },
+  {
+    "FIELD1": 113,
+    "Coin Name": "$MOANBRAIN",
+    "Description": "High IQ. Low PnL. All whines."
+  },
+  {
+    "FIELD1": 114,
+    "Coin Name": "$RIZZRICE",
+    "Description": "Spits game. Still broke."
+  },
+  {
+    "FIELD1": 115,
+    "Coin Name": "$TINYBAG",
+    "Description": "Small bag. Huge emotional damage."
+  },
+  {
+    "FIELD1": 116,
+    "Coin Name": "$SWIPESNACK",
+    "Description": "Looks tasty. Rugged instantly."
+  },
+  {
+    "FIELD1": 117,
+    "Coin Name": "$CRYBAG",
+    "Description": "Tears included in tokenomics."
+  },
+  {
+    "FIELD1": 118,
+    "Coin Name": "$DRAINCHART",
+    "Description": "Candles bled. So did hope."
+  },
+  {
+    "FIELD1": 119,
+    "Coin Name": "$MADSNACK",
+    "Description": "Crunchy pump. Soft dump."
+  },
+  {
+    "FIELD1": 120,
+    "Coin Name": "$ELON",
+    "Description": "Not that Elon. Just disappointment."
+  },
+  {
+    "FIELD1": 121,
+    "Coin Name": "$FREAKYKEVIN",
+    "Description": "Always online. Never right."
+  },
+  {
+    "FIELD1": 122,
+    "Coin Name": "$STUPIDCHART",
+    "Description": "It drew itself. In blood."
+  },
+  {
+    "FIELD1": 123,
+    "Coin Name": "$BROKEBRAIN",
+    "Description": "Out of ideas. And funds."
+  },
+  {
+    "FIELD1": 124,
+    "Coin Name": "$YEETGOBLIN",
+    "Description": "Flung into your wallet. Screamed all the way."
+  },
+  {
+    "FIELD1": 125,
+    "Coin Name": "$DOODOO",
+    "Description": "Smells like moon. Drops like stool."
+  },
+  {
+    "FIELD1": 126,
+    "Coin Name": "$APEPISS",
+    "Description": "Marked territory. And charts."
+  },
+  {
+    "FIELD1": 127,
+    "Coin Name": "$BUYBRAIN",
+    "Description": "Thinks too hard. Buys too late."
+  },
+  {
+    "FIELD1": 128,
+    "Coin Name": "$SADGRANNY",
+    "Description": "Knits rugs and regrets."
+  },
+  {
+    "FIELD1": 129,
+    "Coin Name": "$SICKGRANNY",
+    "Description": "Weak hands. Strong opinions."
+  },
+  {
+    "FIELD1": 130,
+    "Coin Name": "$MADBAG",
+    "Description": "Yelled at the chart. It kept falling."
+  },
+  {
+    "FIELD1": 131,
+    "Coin Name": "$SOFTSNACK",
+    "Description": "Zero crunch. Negative gains."
+  },
+  {
+    "FIELD1": 132,
+    "Coin Name": "$SNIFFWALLET",
+    "Description": "Inhaled your liquidity."
+  },
+  {
+    "FIELD1": 133,
+    "Coin Name": "$NOPE",
+    "Description": "The answer to everything."
+  },
+  {
+    "FIELD1": 134,
+    "Coin Name": "$TINYCOIN",
+    "Description": "Microcap. Micropain."
+  },
+  {
+    "FIELD1": 135,
+    "Coin Name": "$FATRICE",
+    "Description": "Bulk carbs. Zero pumps."
+  },
+  {
+    "FIELD1": 136,
+    "Coin Name": "$LOSESNIFF",
+    "Description": "Smelled the top. Bought anyway."
+  },
+  {
+    "FIELD1": 137,
+    "Coin Name": "$LOSS",
+    "Description": "A timeless classic."
+  },
+  {
+    "FIELD1": 138,
+    "Coin Name": "$COPEKEVIN",
+    "Description": "Tweets positivity. Bags reek."
+  },
+  {
+    "FIELD1": 139,
+    "Coin Name": "$SWIPESNIFF",
+    "Description": "Sniffed the trend. Missed the moon."
+  },
+  {
+    "FIELD1": 140,
+    "Coin Name": "$DRAINDREAM",
+    "Description": "Kissed ambition goodbye."
+  },
+  {
+    "FIELD1": 141,
+    "Coin Name": "$MOANDREAM",
+    "Description": "Cried all the way to zero."
+  },
+  {
+    "FIELD1": 142,
+    "Coin Name": "$TOE",
+    "Description": "It’s just a toe. Why did you buy this?"
+  },
+  {
+    "FIELD1": 143,
+    "Coin Name": "$YEETFART",
+    "Description": "Gone in a puff of regret."
+  },
+  {
+    "FIELD1": 144,
+    "Coin Name": "$LICKINCH",
+    "Description": "Too close. Too weird."
+  },
+  {
+    "FIELD1": 145,
+    "Coin Name": "$SNIFFPISS",
+    "Description": "Followed the scent. Straight to loss."
+  },
+  {
+    "FIELD1": 146,
+    "Coin Name": "$HARDZOMBIE",
+    "Description": "Undead chart. Rigid decline."
+  },
+  {
+    "FIELD1": 147,
+    "Coin Name": "$BLORP",
+    "Description": "Makes no sense. Prints no gains."
+  },
+  {
+    "FIELD1": 148,
+    "Coin Name": "$SCANDREAM",
+    "Description": "Promised alpha. Delivered nightmares."
+  },
+  {
+    "FIELD1": 149,
+    "Coin Name": "$STUPIDGRANNY",
+    "Description": "Forgot the keys. Lost the seed."
+  },
+  {
+    "FIELD1": 150,
+    "Coin Name": "$SICKDOG",
+    "Description": "Should’ve stayed in the vet."
+  },
+  {
+    "FIELD1": 151,
+    "Coin Name": "$DRAINWALLET",
+    "Description": "It did what it said."
+  },
+  {
+    "FIELD1": 152,
+    "Coin Name": "$DUMBBOIL",
+    "Description": "Hot mess. No sizzle."
+  },
+  {
+    "FIELD1": 153,
+    "Coin Name": "$BUYGRANNY",
+    "Description": "She told you not to."
+  },
+  {
+    "FIELD1": 154,
+    "Coin Name": "$BUYINCH",
+    "Description": "Felt big. Traded small."
+  },
+  {
+    "FIELD1": 155,
+    "Coin Name": "$COPEGOBLIN",
+    "Description": "Whines in your DMs."
+  },
+  {
+    "FIELD1": 156,
+    "Coin Name": "$HOTPISS",
+    "Description": "Steaming hot garbage."
+  },
+  {
+    "FIELD1": 157,
+    "Coin Name": "$CLICKBRAIN",
+    "Description": "Clicked by mistake. Held by choice."
+  },
+  {
+    "FIELD1": 158,
+    "Coin Name": "$DUMBTOE",
+    "Description": "Stepped into it again."
+  },
+  {
+    "FIELD1": 159,
+    "Coin Name": "$MADGOOBER",
+    "Description": "Loud. Wrong. Persistent."
+  },
+  {
+    "FIELD1": 160,
+    "Coin Name": "$DRAINBAG",
+    "Description": "Sucked dry like a Capri Sun."
+  },
+  {
+    "FIELD1": 161,
+    "Coin Name": "$SADZOMBIE",
+    "Description": "Too dead to die."
+  },
+  {
+    "FIELD1": 162,
+    "Coin Name": "$CLICKTAX",
+    "Description": "Every click costs you. Emotionally."
+  },
+  {
+    "FIELD1": 163,
+    "Coin Name": "$LAZYINCH",
+    "Description": "Doesn’t even pump when paid to."
+  },
+  {
+    "FIELD1": 164,
+    "Coin Name": "$MOANBOY",
+    "Description": "Complains louder than the chart drops."
+  },
+  {
+    "FIELD1": 165,
+    "Coin Name": "$HOTSNIFF",
+    "Description": "Smells rich. Isn’t."
+  },
+  {
+    "FIELD1": 166,
+    "Coin Name": "$CRINGEINCH",
+    "Description": "Not even funny. Just tragic."
+  },
+  {
+    "FIELD1": 167,
+    "Coin Name": "$COPECHART",
+    "Description": "Shows hopium candles. Drawn in tears."
+  },
+  {
+    "FIELD1": 168,
+    "Coin Name": "$SCROLLTAX",
+    "Description": "Scrolled into loss. Taxed your soul."
+  },
+  {
+    "FIELD1": 169,
+    "Coin Name": "$HOTDEGEN",
+    "Description": "Burned the candle and the wallet."
+  },
+  {
+    "FIELD1": 170,
+    "Coin Name": "$DREAM",
+    "Description": "Was one. Now a warning."
+  },
+  {
+    "FIELD1": 171,
+    "Coin Name": "$SENDZOMBIE",
+    "Description": "One click. Infinite suffering."
+  },
+  {
+    "FIELD1": 172,
+    "Coin Name": "$SADLIQUID",
+    "Description": "Pools of pain."
+  },
+  {
+    "FIELD1": 173,
+    "Coin Name": "$LIQUID",
+    "Description": "Slippery slope to zero."
+  },
+  {
+    "FIELD1": 174,
+    "Coin Name": "$CRYGOBLIN",
+    "Description": "Screams on the way down."
+  },
+  {
+    "FIELD1": 175,
+    "Coin Name": "$STUPIDPISS",
+    "Description": "Soaked in regret."
+  },
+  {
+    "FIELD1": 176,
+    "Coin Name": "$SICKCHART",
+    "Description": "Terminally bearish."
+  },
+  {
+    "FIELD1": 177,
+    "Coin Name": "$MEME",
+    "Description": "Exists. Somehow still underperforms."
+  },
+  {
+    "FIELD1": 178,
+    "Coin Name": "$CLICKTOE",
+    "Description": "Stubbed your balance."
+  },
+  {
+    "FIELD1": 179,
+    "Coin Name": "$CLICKZOMBIE",
+    "Description": "Clicked once. Haunted forever."
+  },
+  {
+    "FIELD1": 180,
+    "Coin Name": "$DUMPDEGEN",
+    "Description": "Exited before it entered."
+  },
+  {
+    "FIELD1": 181,
+    "Coin Name": "$BUYHOPE",
+    "Description": "Hope bought. Copium sold."
+  },
+  {
+    "FIELD1": 182,
+    "Coin Name": "$FLIPLOSS",
+    "Description": "Flipped at the top."
+  },
+  {
+    "FIELD1": 183,
+    "Coin Name": "$DUMPWALLET",
+    "Description": "You know what to do."
+  },
+  {
+    "FIELD1": 184,
+    "Coin Name": "$ZOOMBOIL",
+    "Description": "Heated up fast. Burned quicker."
+  },
+  {
+    "FIELD1": 185,
+    "Coin Name": "$SCROLLBRAIN",
+    "Description": "Kept reading. Still bought."
+  },
+  {
+    "FIELD1": 186,
+    "Coin Name": "$LAZYLOSS",
+    "Description": "Didn’t even try to pump."
+  },
+  {
+    "FIELD1": 187,
+    "Coin Name": "$WEIRDSOCK",
+    "Description": "Doesn’t match. Still traded."
+  },
+  {
+    "FIELD1": 188,
+    "Coin Name": "$TINYINCH",
+    "Description": "Promised growth. Delivered shrinkage."
+  },
+  {
+    "FIELD1": 189,
+    "Coin Name": "$BROKESNACK",
+    "Description": "Can’t even afford gas fees."
+  },
+  {
+    "FIELD1": 190,
+    "Coin Name": "$TINYCAT",
+    "Description": "Meows. Fails. Loops."
+  },
+  {
+    "FIELD1": 191,
+    "Coin Name": "$WETHOPE",
+    "Description": "We thought. It didn’t."
+  },
+  {
+    "FIELD1": 192,
+    "Coin Name": "$MADDOG",
+    "Description": "Barks loud. Fights weak."
+  },
+  {
+    "FIELD1": 193,
+    "Coin Name": "$MOANZOMBIE",
+    "Description": "Undead and unbearable."
+  },
+  {
+    "FIELD1": 194,
+    "Coin Name": "$SUSSY",
+    "Description": "Feels wrong. Probably is."
+  },
+  {
+    "FIELD1": 195,
+    "Coin Name": "$COIN",
+    "Description": "Just coin. Nothing more."
+  },
+  {
+    "FIELD1": 196,
+    "Coin Name": "$SENDDREAM",
+    "Description": "Sleep-traded it into the ground."
+  },
+  {
+    "FIELD1": 197,
+    "Coin Name": "$SWIPEMEME",
+    "Description": "Left swipe. Instant dump."
+  },
+  {
+    "FIELD1": 198,
+    "Coin Name": "$TINYFART",
+    "Description": "Barely a pump. Loud regrets."
+  },
+  {
+    "FIELD1": 199,
+    "Coin Name": "$DUMPPISS",
+    "Description": "Full bladder. Empty wallet."
+  },
+  {
+    "FIELD1": 200,
+    "Coin Name": "$SADGOOBER",
+    "Description": "He tried. Bless him."
+  },
+  {
+    "FIELD1": 201,
+    "Coin Name": "$BROKETAX",
+    "Description": "Taxed twice. Still broke."
+  },
+  {
+    "FIELD1": 202,
+    "Coin Name": "$KAREN",
+    "Description": "Demands a refund. Gets delisted."
+  },
+  {
+    "FIELD1": 203,
+    "Coin Name": "$BROKEKEVIN",
+    "Description": "He swore it was alpha."
+  },
+  {
+    "FIELD1": 204,
+    "Coin Name": "$BLINDKEVIN",
+    "Description": "Claimed vision. Held nothing."
+  },
+  {
+    "FIELD1": 205,
+    "Coin Name": "$SCROLLCOIN",
+    "Description": "Too many tabs. Bought the wrong one."
+  },
+  {
+    "FIELD1": 206,
+    "Coin Name": "$WEW",
+    "Description": "Said it. Meant it. Regretted it."
+  },
+  {
+    "FIELD1": 207,
+    "Coin Name": "$LAZYDEGEN",
+    "Description": "Bought late. Sold later."
+  },
+  {
+    "FIELD1": 208,
+    "Coin Name": "$CLICKKEVIN",
+    "Description": "Influencer entry. Instant exit."
+  },
+  {
+    "FIELD1": 209,
+    "Coin Name": "$BUYLIQUID",
+    "Description": "Thought it was deep. Drowned."
+  },
+  {
+    "FIELD1": 210,
+    "Coin Name": "$BROKESNIFF",
+    "Description": "No scent. No cents."
+  },
+  {
+    "FIELD1": 211,
+    "Coin Name": "$YEETSNIFF",
+    "Description": "Nose-dived into despair."
+  },
+  {
+    "FIELD1": 212,
+    "Coin Name": "$SCROLLMEME",
+    "Description": "You scrolled too far, friendo."
+  },
+  {
+    "FIELD1": 213,
+    "Coin Name": "$BLINDTOE",
+    "Description": "Stumbled into bankruptcy."
+  },
+  {
+    "FIELD1": 214,
+    "Coin Name": "$LICKBOIL",
+    "Description": "Oozes loss. You licked it anyway."
+  },
+  {
+    "FIELD1": 215,
+    "Coin Name": "$RIZZINCH",
+    "Description": "Smooth talker. Shrinking bags."
+  },
+  {
+    "FIELD1": 216,
+    "Coin Name": "$BUYGOOBER",
+    "Description": "Bought him out of pity."
+  },
+  {
+    "FIELD1": 217,
+    "Coin Name": "$ZOOMSNACK",
+    "Description": "Blinked and it rugged."
+  },
+  {
+    "FIELD1": 218,
+    "Coin Name": "$BUYDREAM",
+    "Description": "Believed too hard. Lost too fast."
+  },
+  {
+    "FIELD1": 219,
+    "Coin Name": "$CLICKRICE",
+    "Description": "Clicked for carbs. Got cooked."
+  },
+  {
+    "FIELD1": 220,
+    "Coin Name": "$LOSEKEVIN",
+    "Description": "Always the wrong Kevin."
+  },
+  {
+    "FIELD1": 221,
+    "Coin Name": "$RIZZLIQUID",
+    "Description": "Flirted with gains. Drowned instead."
+  },
+  {
+    "FIELD1": 222,
+    "Coin Name": "$BLINDWALLET",
+    "Description": "Spent it all. Saw nothing."
+  },
+  {
+    "FIELD1": 223,
+    "Coin Name": "$SENDSNIFF",
+    "Description": "Launched with vibes and regret."
+  },
+  {
+    "FIELD1": 224,
+    "Coin Name": "$SWIPEGOBLIN",
+    "Description": "Matched with misery."
+  },
+  {
+    "FIELD1": 225,
+    "Coin Name": "$UGH",
+    "Description": "Just… ugh."
+  },
+  {
+    "FIELD1": 226,
+    "Coin Name": "$CRYGOOBER",
+    "Description": "Whimpers every dip."
+  },
+  {
+    "FIELD1": 227,
+    "Coin Name": "$SADCHART",
+    "Description": "Drawn in sadness."
+  },
+  {
+    "FIELD1": 228,
+    "Coin Name": "$SWIPEGOOBER",
+    "Description": "Found love. Lost liquidity."
+  },
+  {
+    "FIELD1": 229,
+    "Coin Name": "$APEBOIL",
+    "Description": "A hot mess from the jungle."
+  },
+  {
+    "FIELD1": 230,
+    "Coin Name": "$DRYTAX",
+    "Description": "No liquidity. Still taxed."
+  },
+  {
+    "FIELD1": 231,
+    "Coin Name": "$FATKEVIN",
+    "Description": "Big bones. Bigger bags."
+  },
+  {
+    "FIELD1": 232,
+    "Coin Name": "$SICKKEVIN",
+    "Description": "Contagious losses."
+  },
+  {
+    "FIELD1": 233,
+    "Coin Name": "$CLICKHOPE",
+    "Description": "Clickbait coin. Hope sold separately."
+  },
+  {
+    "FIELD1": 234,
+    "Coin Name": "$BRAD",
+    "Description": "That guy from high school who launches rugs."
+  },
+  {
+    "FIELD1": 235,
+    "Coin Name": "$FREAKYBAG",
+    "Description": "Moves weird. Bags weird."
+  },
+  {
+    "FIELD1": 236,
+    "Coin Name": "$DRAINCOIN",
+    "Description": "It drains. That’s the utility."
+  },
+  {
+    "FIELD1": 237,
+    "Coin Name": "$CRINGESNACK",
+    "Description": "Feeds nothing. Costs everything."
+  },
+  {
+    "FIELD1": 238,
+    "Coin Name": "$WETBAG",
+    "Description": "Leaks value."
+  },
+  {
+    "FIELD1": 239,
+    "Coin Name": "$LOSEBRAIN",
+    "Description": "Forget what TA was."
+  },
+  {
+    "FIELD1": 240,
+    "Coin Name": "$SCROLLGOOBER",
+    "Description": "Endless scroll. No pump."
+  },
+  {
+    "FIELD1": 241,
+    "Coin Name": "$CRYHOPE",
+    "Description": "Hope screamed louder this time."
+  },
+  {
+    "FIELD1": 242,
+    "Coin Name": "$YEET",
+    "Description": "Thrown. Forgotten."
+  },
+  {
+    "FIELD1": 243,
+    "Coin Name": "$NANCY",
+    "Description": "Doesn’t know what crypto is. Still rugged you."
+  },
+  {
+    "FIELD1": 244,
+    "Coin Name": "$DRAINFART",
+    "Description": "Sucked the air and your dreams."
+  },
+  {
+    "FIELD1": 245,
+    "Coin Name": "$LICKSNIFF",
+    "Description": "Why are you like this?"
+  },
+  {
+    "FIELD1": 246,
+    "Coin Name": "$FREAKYNOPE",
+    "Description": "Absolutely not. Still bought it."
+  },
+  {
+    "FIELD1": 247,
+    "Coin Name": "$LOSTSNIFF",
+    "Description": "Smelled the L. Found it."
+  },
+  {
+    "FIELD1": 248,
+    "Coin Name": "$RIZZSNACK",
+    "Description": "Seduced. Consumed. Rugged."
+  },
+  {
+    "FIELD1": 249,
+    "Coin Name": "$SOFTBOY",
+    "Description": "Gentle with losses."
+  },
+  {
+    "FIELD1": 250,
+    "Coin Name": "$WEIRDFART",
+    "Description": "Not funny. Still held."
+  },
+  {
+    "FIELD1": 251,
+    "Coin Name": "$CRINGEZOMBIE",
+    "Description": "Back from the dead, unfortunately."
+  },
+  {
+    "FIELD1": 252,
+    "Coin Name": "$REKT",
+    "Description": "All caps. Full send."
+  },
+  {
+    "FIELD1": 253,
+    "Coin Name": "$YEETHOPE",
+    "Description": "Hope launched. Gains yeeted."
+  },
+  {
+    "FIELD1": 254,
+    "Coin Name": "$RICE",
+    "Description": "Filler token."
+  },
+  {
+    "FIELD1": 255,
+    "Coin Name": "$YEETBAG",
+    "Description": "Gone in one candle."
+  },
+  {
+    "FIELD1": 256,
+    "Coin Name": "$SADPISS",
+    "Description": "Wet with tears."
+  },
+  {
+    "FIELD1": 257,
+    "Coin Name": "$HOTCHART",
+    "Description": "Only thing hot is the burn."
+  },
+  {
+    "FIELD1": 258,
+    "Coin Name": "$LOSECAT",
+    "Description": "Chased gains. Got declawed."
+  },
+  {
+    "FIELD1": 259,
+    "Coin Name": "$RIZZBAG",
+    "Description": "Smooth entry. Heavy carry."
+  },
+  {
+    "FIELD1": 260,
+    "Coin Name": "$WETBOY",
+    "Description": "Moist with misfortune."
+  },
+  {
+    "FIELD1": 261,
+    "Coin Name": "$YEETCHART",
+    "Description": "Thrown directly at zero."
+  },
+  {
+    "FIELD1": 262,
+    "Coin Name": "$DUMBSOCK",
+    "Description": "No pair. No purpose."
+  },
+  {
+    "FIELD1": 263,
+    "Coin Name": "$BAG",
+    "Description": "You are this."
+  },
+  {
+    "FIELD1": 264,
+    "Coin Name": "$FATLOSS",
+    "Description": "Thicc in red."
+  },
+  {
+    "FIELD1": 265,
+    "Coin Name": "$LICKKEVIN",
+    "Description": "Crossed the line. Still flopped."
+  },
+  {
+    "FIELD1": 266,
+    "Coin Name": "$GOBLIN",
+    "Description": "Base class for all degen."
+  },
+  {
+    "FIELD1": 267,
+    "Coin Name": "$HARDGOBLIN",
+    "Description": "Maxed stats. Still wrecked."
+  },
+  {
+    "FIELD1": 268,
+    "Coin Name": "$BIDEN",
+    "Description": "Falls downstairs and on charts."
+  },
+  {
+    "FIELD1": 269,
+    "Coin Name": "$SOFTLIQUID",
+    "Description": "Flaccid flow."
+  },
+  {
+    "FIELD1": 270,
+    "Coin Name": "$WEIRDDREAM",
+    "Description": "You woke up with losses."
+  },
+  {
+    "FIELD1": 271,
+    "Coin Name": "$HARDMEME",
+    "Description": "Too edgy to trend."
+  },
+  {
+    "FIELD1": 272,
+    "Coin Name": "$BUYTAX",
+    "Description": "Bought in. Got taxed emotionally."
+  },
+  {
+    "FIELD1": 273,
+    "Coin Name": "$SENDGOBLIN",
+    "Description": "He’s coming for your wallet."
+  },
+  {
+    "FIELD1": 274,
+    "Coin Name": "$SNIFF",
+    "Description": "The smell of cope."
+  },
+  {
+    "FIELD1": 275,
+    "Coin Name": "$NAKEDZOMBIE",
+    "Description": "Barely alive. Overexposed."
+  },
+  {
+    "FIELD1": 276,
+    "Coin Name": "$MADGOBLIN",
+    "Description": "Screams in code."
+  },
+  {
+    "FIELD1": 277,
+    "Coin Name": "$SADSNACK",
+    "Description": "No crunch, only regret."
+  },
+  {
+    "FIELD1": 278,
+    "Coin Name": "$YEETBRAIN",
+    "Description": "Threw intelligence out."
+  },
+  {
+    "FIELD1": 279,
+    "Coin Name": "$DUMPSNACK",
+    "Description": "Fast food for rug chasers."
+  },
+  {
+    "FIELD1": 280,
+    "Coin Name": "$HOTBAG",
+    "Description": "Warm and full of failure."
+  },
+  {
+    "FIELD1": 281,
+    "Coin Name": "$LAZYKEVIN",
+    "Description": "Didn’t even shill it."
+  },
+  {
+    "FIELD1": 282,
+    "Coin Name": "$SWIPEBRAIN",
+    "Description": "Not smart. Just slippery."
+  },
+  {
+    "FIELD1": 283,
+    "Coin Name": "$RIZZHOPE",
+    "Description": "Promises everything. Delivers rugs."
+  },
+  {
+    "FIELD1": 284,
+    "Coin Name": "$WEIRDLIQUID",
+    "Description": "What even is this pool?"
+  },
+  {
+    "FIELD1": 285,
+    "Coin Name": "$LICKSNACK",
+    "Description": "You deserve this."
+  },
+  {
+    "FIELD1": 286,
+    "Coin Name": "$SICKBRAIN",
+    "Description": "Unhealthy alpha."
+  },
+  {
+    "FIELD1": 287,
+    "Coin Name": "$BLINDTAX",
+    "Description": "Didn’t read. Still paid."
+  },
+  {
+    "FIELD1": 288,
+    "Coin Name": "$SLORP",
+    "Description": "It’s the sound of value vanishing."
+  },
+  {
+    "FIELD1": 289,
+    "Coin Name": "$SCROLLNOPE",
+    "Description": "Your thumb said no. You bought anyway."
+  },
+  {
+    "FIELD1": 290,
+    "Coin Name": "$CRYSNACK",
+    "Description": "Ate it. Sobbed after."
+  },
+  {
+    "FIELD1": 291,
+    "Coin Name": "$UHHH",
+    "Description": "No clue. Just vibes."
+  },
+  {
+    "FIELD1": 292,
+    "Coin Name": "$MADWALLET",
+    "Description": "Screams when opened."
+  },
+  {
+    "FIELD1": 293,
+    "Coin Name": "$FATDOG",
+    "Description": "Slow runner. Big burner."
+  },
+  {
+    "FIELD1": 294,
+    "Coin Name": "$FATCHART",
+    "Description": "Candle size: thicc. Direction: down."
+  },
+  {
+    "FIELD1": 295,
+    "Coin Name": "$FREAKYCAT",
+    "Description": "Allergic to profits."
+  },
+  {
+    "FIELD1": 296,
+    "Coin Name": "$SOFTDEGEN",
+    "Description": "Rugs gently."
+  },
+  {
+    "FIELD1": 297,
+    "Coin Name": "$CRYSNIFF",
+    "Description": "Sniffed the red. Wept in it."
+  },
+  {
+    "FIELD1": 298,
+    "Coin Name": "$BLINDMEME",
+    "Description": "Meme first. Mind never."
+  },
+  {
+    "FIELD1": 299,
+    "Coin Name": "$FREAKYCHART",
+    "Description": "Possessed TA."
+  },
+  {
+    "FIELD1": 300,
+    "Coin Name": "$WALLET",
+    "Description": "Emptied hourly."
+  },
+  {
+    "FIELD1": 301,
+    "Coin Name": "$LOSTTOE",
+    "Description": "Gone forever."
+  },
+  {
+    "FIELD1": 302,
+    "Coin Name": "$YEETRICE",
+    "Description": "Tossed your carbs."
+  },
+  {
+    "FIELD1": 303,
+    "Coin Name": "$ZOOMSOCK",
+    "Description": "Fast slip."
+  },
+  {
+    "FIELD1": 304,
+    "Coin Name": "$TRUMP",
+    "Description": "Fired the devs. Twice."
+  },
+  {
+    "FIELD1": 305,
+    "Coin Name": "$BOB",
+    "Description": "Built absolutely nothing."
+  },
+  {
+    "FIELD1": 306,
+    "Coin Name": "$RIZZCHART",
+    "Description": "Looks sexy. Ends messy."
+  },
+  {
+    "FIELD1": 307,
+    "Coin Name": "$NAKEDDEGEN",
+    "Description": "Exposed for who you are."
+  },
+  {
+    "FIELD1": 308,
+    "Coin Name": "$DRYFART",
+    "Description": "Quiet. Deadly to your bags."
+  },
+  {
+    "FIELD1": 309,
+    "Coin Name": "$SATAN",
+    "Description": "Devil’s rug."
+  },
+  {
+    "FIELD1": 310,
+    "Coin Name": "$SNIFFGRANNY",
+    "Description": "Smells like mothballs and loss."
+  },
+  {
+    "FIELD1": 311,
+    "Coin Name": "$WETDOG",
+    "Description": "Soaked. Sad."
+  },
+  {
+    "FIELD1": 312,
+    "Coin Name": "$MINTRICE",
+    "Description": "Printed carbs."
+  },
+  {
+    "FIELD1": 313,
+    "Coin Name": "$RIZZTOE",
+    "Description": "Smooth intro. No utility."
+  },
+  {
+    "FIELD1": 314,
+    "Coin Name": "$DRAINZOMBIE",
+    "Description": "Already dead. Still takes your SOL."
+  },
+  {
+    "FIELD1": 315,
+    "Coin Name": "$OOMF",
+    "Description": "He aped. You followed. You cried."
+  },
+  {
+    "FIELD1": 316,
+    "Coin Name": "$ZOOMBRAIN",
+    "Description": "Overclocked into the red."
+  },
+  {
+    "FIELD1": 317,
+    "Coin Name": "$CRINGESOCK",
+    "Description": "No drip. All slip."
+  },
+  {
+    "FIELD1": 318,
+    "Coin Name": "$MOANBOIL",
+    "Description": "Complains while it leaks value."
+  },
+  {
+    "FIELD1": 319,
+    "Coin Name": "$DUMPDREAM",
+    "Description": "Slept bullish. Woke red."
+  },
+  {
+    "FIELD1": 320,
+    "Coin Name": "$TINYSNIFF",
+    "Description": "Barely noticeable. Fully regrettable."
+  },
+  {
+    "FIELD1": 321,
+    "Coin Name": "$BUYSNIFF",
+    "Description": "Bad scent. Worse entry."
+  },
+  {
+    "FIELD1": 322,
+    "Coin Name": "$DUMPTAX",
+    "Description": "Gains? Taxed."
+  },
+  {
+    "FIELD1": 323,
+    "Coin Name": "$LARRY",
+    "Description": "Rugged on Facebook."
+  },
+  {
+    "FIELD1": 324,
+    "Coin Name": "$SWIPEDEGEN",
+    "Description": "Matched with delusion."
+  },
+  {
+    "FIELD1": 325,
+    "Coin Name": "$SWIPEGRANNY",
+    "Description": "Don’t ask how she got here."
+  },
+  {
+    "FIELD1": 326,
+    "Coin Name": "$HOPE",
+    "Description": "Classic mistake."
+  },
+  {
+    "FIELD1": 327,
+    "Coin Name": "$COPERICE",
+    "Description": "Served cold. With excuses."
+  },
+  {
+    "FIELD1": 328,
+    "Coin Name": "$FLIPKEVIN",
+    "Description": "Traded for less."
+  },
+  {
+    "FIELD1": 329,
+    "Coin Name": "$SNIFFDOG",
+    "Description": "Tracked the wrong lead."
+  },
+  {
+    "FIELD1": 330,
+    "Coin Name": "$SENDINCH",
+    "Description": "Tiny pump. Huge tax."
+  },
+  {
+    "FIELD1": 331,
+    "Coin Name": "$FREAKYLIQUID",
+    "Description": "Pool full of danger."
+  },
+  {
+    "FIELD1": 332,
+    "Coin Name": "$ZOMBIE",
+    "Description": "Dead project walking."
+  },
+  {
+    "FIELD1": 333,
+    "Coin Name": "$MADDREAM",
+    "Description": "Manifested nothing."
+  },
+  {
+    "FIELD1": 334,
+    "Coin Name": "$STUPIDSNACK",
+    "Description": "Taste of loss."
+  },
+  {
+    "FIELD1": 335,
+    "Coin Name": "$DUMBRICE",
+    "Description": "Grew nowhere."
+  },
+  {
+    "FIELD1": 336,
+    "Coin Name": "$RIZZNOPE",
+    "Description": "Tried to flirt. Got rugged."
+  },
+  {
+    "FIELD1": 337,
+    "Coin Name": "$DEADTAX",
+    "Description": "They taxed the ashes."
+  },
+  {
+    "FIELD1": 338,
+    "Coin Name": "$COPEINCH",
+    "Description": "Small bag. Massive denial."
+  },
+  {
+    "FIELD1": 339,
+    "Coin Name": "$UNCLE",
+    "Description": "He said it was early. He lied."
+  },
+  {
+    "FIELD1": 340,
+    "Coin Name": "$SADDOG",
+    "Description": "Whimpers when chart opens."
+  },
+  {
+    "FIELD1": 341,
+    "Coin Name": "$YEETWALLET",
+    "Description": "Thrown into oblivion."
+  },
+  {
+    "FIELD1": 342,
+    "Coin Name": "$CLICKFART",
+    "Description": "Traded on impulse."
+  },
+  {
+    "FIELD1": 343,
+    "Coin Name": "$FREAKYGOBLIN",
+    "Description": "Screams when you sell."
+  },
+  {
+    "FIELD1": 344,
+    "Coin Name": "$DRAINTAX",
+    "Description": "Subtracted joy."
+  },
+  {
+    "FIELD1": 345,
+    "Coin Name": "$LAZYRICE",
+    "Description": "Didn’t cook. Didn’t moon."
+  },
+  {
+    "FIELD1": 346,
+    "Coin Name": "$CRINGEBOY",
+    "Description": "TikTok tier entry."
+  },
+  {
+    "FIELD1": 347,
+    "Coin Name": "$BLINDBOIL",
+    "Description": "Danger you didn’t see coming."
+  },
+  {
+    "FIELD1": 348,
+    "Coin Name": "$TAX",
+    "Description": "The only thing guaranteed."
+  },
+  {
+    "FIELD1": 349,
+    "Coin Name": "$DOG",
+    "Description": "Chases coins. Loses every time."
+  },
+  {
+    "FIELD1": 350,
+    "Coin Name": "$LOLNO",
+    "Description": "You already knew better."
+  },
+  {
+    "FIELD1": 351,
+    "Coin Name": "$SWIPEBAG",
+    "Description": "Matched with liquidation."
+  },
+  {
+    "FIELD1": 352,
+    "Coin Name": "$INCH",
+    "Description": "Feels smaller every hour."
+  },
+  {
+    "FIELD1": 353,
+    "Coin Name": "$BUYZOMBIE",
+    "Description": "Bought late. Still died."
+  },
+  {
+    "FIELD1": 354,
+    "Coin Name": "$BROKELIQUID",
+    "Description": "Pool’s empty. So are you."
+  },
+  {
+    "FIELD1": 355,
+    "Coin Name": "$CHART",
+    "Description": "Just pain with lines."
+  },
+  {
+    "FIELD1": 356,
+    "Coin Name": "$NAKEDGOOBER",
+    "Description": "Fully exposed, fully wrecked."
+  },
+  {
+    "FIELD1": 357,
+    "Coin Name": "$YEETBOY",
+    "Description": "Flew out the chart."
+  },
+  {
+    "FIELD1": 358,
+    "Coin Name": "$HOTGOBLIN",
+    "Description": "Hot mess in a hoodie."
+  },
+  {
+    "FIELD1": 359,
+    "Coin Name": "$SENDBRAIN",
+    "Description": "You’ll need it."
+  },
+  {
+    "FIELD1": 360,
+    "Coin Name": "$SOFTPISS",
+    "Description": "Warm loss."
+  },
+  {
+    "FIELD1": 361,
+    "Coin Name": "$FLIPSNACK",
+    "Description": "Traded for trauma."
+  },
+  {
+    "FIELD1": 362,
+    "Coin Name": "$RIZZCOIN",
+    "Description": "Charisma 10. Marketcap 0."
+  },
+  {
+    "FIELD1": 363,
+    "Coin Name": "$WETGRANNY",
+    "Description": "Not the pump you wanted."
+  },
+  {
+    "FIELD1": 364,
+    "Coin Name": "$SADBOIL",
+    "Description": "Crying in liquidity."
+  },
+  {
+    "FIELD1": 365,
+    "Coin Name": "$MINTCOIN",
+    "Description": "Freshly minted garbage."
+  },
+  {
+    "FIELD1": 366,
+    "Coin Name": "$DEADBOIL",
+    "Description": "Doesn’t even bubble."
+  },
+  {
+    "FIELD1": 367,
+    "Coin Name": "$WEIRDBRAIN",
+    "Description": "Big thoughts. Small charts."
+  },
+  {
+    "FIELD1": 368,
+    "Coin Name": "$DUMPCAT",
+    "Description": "Fell off the counter and the charts."
+  },
+  {
+    "FIELD1": 369,
+    "Coin Name": "$LOSEDREAM",
+    "Description": "RIP your ambitions."
+  },
+  {
+    "FIELD1": 370,
+    "Coin Name": "$FLIPTOE",
+    "Description": "Tripped on it."
+  },
+  {
+    "FIELD1": 371,
+    "Coin Name": "$GABE",
+    "Description": "Rugged you and disappeared."
+  },
+  {
+    "FIELD1": 372,
+    "Coin Name": "$BUYSOCK",
+    "Description": "Found the wrong pair."
+  },
+  {
+    "FIELD1": 373,
+    "Coin Name": "$HARDGRANNY",
+    "Description": "Tough love. Hard rug."
+  },
+  {
+    "FIELD1": 374,
+    "Coin Name": "$SCROLLBOY",
+    "Description": "Just kept going."
+  },
+  {
+    "FIELD1": 375,
+    "Coin Name": "$BLINDNOPE",
+    "Description": "Said yes without looking."
+  },
+  {
+    "FIELD1": 376,
+    "Coin Name": "$BOY",
+    "Description": "Just a guy. On-chain."
+  },
+  {
+    "FIELD1": 377,
+    "Coin Name": "$FREAKYSOCK",
+    "Description": "Not wearable. Not tradable."
+  },
+  {
+    "FIELD1": 378,
+    "Coin Name": "$LICKBOY",
+    "Description": "Why are you holding this?"
+  },
+  {
+    "FIELD1": 379,
+    "Coin Name": "$BROKETOE",
+    "Description": "Small risk. Huge pain."
+  },
+  {
+    "FIELD1": 380,
+    "Coin Name": "$APEINCH",
+    "Description": "Aped inches from the top."
+  },
+  {
+    "FIELD1": 381,
+    "Coin Name": "$SOFTCOIN",
+    "Description": "Soft rug."
+  },
+  {
+    "FIELD1": 382,
+    "Coin Name": "$GRRR",
+    "Description": "Angry. Illiquid."
+  },
+  {
+    "FIELD1": 383,
+    "Coin Name": "$ZOOMKEVIN",
+    "Description": "Fast mover. No direction."
+  },
+  {
+    "FIELD1": 384,
+    "Coin Name": "$STUPIDKEVIN",
+    "Description": "Keeps tweeting. Still poor."
+  },
+  {
+    "FIELD1": 385,
+    "Coin Name": "$CHAD",
+    "Description": "Ratioed and rugged."
+  },
+  {
+    "FIELD1": 386,
+    "Coin Name": "$LICKTOE",
+    "Description": "You knew better."
+  },
+  {
+    "FIELD1": 387,
+    "Coin Name": "$SICKSNACK",
+    "Description": "Don’t eat this one."
+  },
+  {
+    "FIELD1": 388,
+    "Coin Name": "$MOANSNIFF",
+    "Description": "Just makes noises."
+  },
+  {
+    "FIELD1": 389,
+    "Coin Name": "$BOING",
+    "Description": "Bounced once. Then died."
+  },
+  {
+    "FIELD1": 390,
+    "Coin Name": "$DEADSNACK",
+    "Description": "Expired."
+  },
+  {
+    "FIELD1": 391,
+    "Coin Name": "$CRYINCH",
+    "Description": "Weeping for decimals."
+  },
+  {
+    "FIELD1": 392,
+    "Coin Name": "$MINTDOG",
+    "Description": "Freshly bred rug."
+  },
+  {
+    "FIELD1": 393,
+    "Coin Name": "$BROKERICE",
+    "Description": "Not financial advice. Ever."
+  },
+  {
+    "FIELD1": 394,
+    "Coin Name": "$BRUH",
+    "Description": "Exactly."
+  },
+  {
+    "FIELD1": 395,
+    "Coin Name": "$DUMPCHART",
+    "Description": "Red waterfall."
+  },
+  {
+    "FIELD1": 396,
+    "Coin Name": "$BOIL",
+    "Description": "Simmered. Never cooked."
+  },
+  {
+    "FIELD1": 397,
+    "Coin Name": "$NAKEDBAG",
+    "Description": "Nowhere to hide."
+  },
+  {
+    "FIELD1": 398,
+    "Coin Name": "$MEH",
+    "Description": "Unbothered. Untraded."
+  },
+  {
+    "FIELD1": 399,
+    "Coin Name": "$DRYMEME",
+    "Description": "Dried up virality."
+  },
+  {
+    "FIELD1": 400,
+    "Coin Name": "$SCANGOOBER",
+    "Description": "Searched. Shouldn’t have."
+  },
+  {
+    "FIELD1": 401,
+    "Coin Name": "$DUMBBOY",
+    "Description": "Means well. Loses worse."
+  },
+  {
+    "FIELD1": 402,
+    "Coin Name": "$HOTCOIN",
+    "Description": "Everyone’s buying. You're bagholding."
+  },
+  {
+    "FIELD1": 403,
+    "Coin Name": "$ZOOMER",
+    "Description": "TikTok pumped. Then dumped."
+  },
+  {
+    "FIELD1": 404,
+    "Coin Name": "$NAKEDFART",
+    "Description": "Offensive."
+  },
+  {
+    "FIELD1": 405,
+    "Coin Name": "$WOOP",
+    "Description": "It went."
+  },
+  {
+    "FIELD1": 406,
+    "Coin Name": "$FLIPSNIFF",
+    "Description": "Whiffed the trade."
+  },
+  {
+    "FIELD1": 407,
+    "Coin Name": "$SNIFFCHART",
+    "Description": "Smells bearish."
+  },
+  {
+    "FIELD1": 408,
+    "Coin Name": "$LAZYTOE",
+    "Description": "Barely moves."
+  },
+  {
+    "FIELD1": 409,
+    "Coin Name": "$SCROLLINCH",
+    "Description": "Infinite scroll to hell."
+  },
+  {
+    "FIELD1": 410,
+    "Coin Name": "$LICKFART",
+    "Description": "Coin jail. Now."
+  },
+  {
+    "FIELD1": 411,
+    "Coin Name": "$CLICKCHART",
+    "Description": "Click to cry."
+  },
+  {
+    "FIELD1": 412,
+    "Coin Name": "$MOANINCH",
+    "Description": "Screamed for help."
+  },
+  {
+    "FIELD1": 413,
+    "Coin Name": "$LICKRICE",
+    "Description": "That’s just gross."
+  },
+  {
+    "FIELD1": 414,
+    "Coin Name": "$DEADINCH",
+    "Description": "Never stood a chance."
+  },
+  {
+    "FIELD1": 415,
+    "Coin Name": "$SENDGOOBER",
+    "Description": "Last trade you’ll make."
+  },
+  {
+    "FIELD1": 416,
+    "Coin Name": "$DEGEN",
+    "Description": "Built different. Lost same."
+  },
+  {
+    "FIELD1": 417,
+    "Coin Name": "$YEETGRANNY",
+    "Description": "She didn’t survive launch."
+  },
+  {
+    "FIELD1": 418,
+    "Coin Name": "$WEIRDBOIL",
+    "Description": "Ominous."
+  },
+  {
+    "FIELD1": 419,
+    "Coin Name": "$ZZZZZ",
+    "Description": "Sleepcoin."
+  },
+  {
+    "FIELD1": 420,
+    "Coin Name": "$SCANPISS",
+    "Description": "What were you scanning for?"
+  },
+  {
+    "FIELD1": 421,
+    "Coin Name": "$CLICKBOIL",
+    "Description": "Instant regret."
+  },
+  {
+    "FIELD1": 422,
+    "Coin Name": "$SCROLLZOMBIE",
+    "Description": "Scrolled too long. Woke the dead."
+  }
 ]
